@@ -190,15 +190,18 @@ To scale from a batch processor to a production-grade enterprise system handling
 ## 🚀 Deliverables Verification
 
 All required project deliverables are compiled and verified:
-1. **Working Code Base**:
-   - `src/triage_engine.py`: Multi-class classifier, sentiment analyzer, and escalation engine.
-   - `src/response_generator.py`: Suggested reply generator for top 2 categories.
-   - `src/batch_processor.py`: Batch execution pipeline.
-   - `src/evaluator.py`: Benchmark evaluation suite.
-   - `cli.py`: Command-line tool.
-   - `app.py`: Interactive Streamlit Web Dashboard.
+1. **Working Python Classifier Backend**:
+   - [triage_engine.py](file:///Users/maneetjha/pocketfm/src/triage_engine.py): Multi-class classifier, sentiment analyzer, and escalation engine.
+   - [response_generator.py](file:///Users/maneetjha/pocketfm/src/response_generator.py): Suggested reply generator for top 2 categories.
+   - [batch_processor.py](file:///Users/maneetjha/pocketfm/src/batch_processor.py): Batch execution pipeline.
+   - [evaluator.py](file:///Users/maneetjha/pocketfm/src/evaluator.py): Benchmark evaluation suite.
+   - [cli.py](file:///Users/maneetjha/pocketfm/cli.py): Command-line tool.
 2. **Output Deliverables**:
    - `output/triage_results.csv`: Predictions, confidence scores, escalation flags, and suggested replies for all 200 tickets.
    - `output/triage_results.json`: Complete JSON output.
    - `output/eval_metrics.json`: Gold Benchmark evaluation metrics report.
 3. **Gold Benchmark**: 25 hand-labeled test cases in `data/gold_eval_dataset.json`.
+4. **Interactive UIs (Bonus)**:
+   - **CLI Tool**: Interactive single-ticket command-line tester under `cli.py`.
+   - **Streamlit App**: Rapid prototyping dashboard under `app.py`.
+   - **Production-Grade React + TypeScript Vite Dashboard**: A fully decoupled, type-safe agent desktop UI at `http://localhost:8080/` built with Tailwind CSS. This demonstrates the decoupling of user interfaces from core Python machine learning logic in a real-world enterprise service architecture.
