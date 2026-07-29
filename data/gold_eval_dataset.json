@@ -1,0 +1,227 @@
+[
+  {
+    "ticket_id": "GOLD-001",
+    "subject": "Double charged for 1000 coin bundle on App Store",
+    "body": "I purchased 1000 coins for $14.99 on my iPhone yesterday. Apple billed my credit card twice ($14.99 x 2). Order ID: ORD-992104. Please refund the duplicate $14.99 charge.",
+    "ground_truth_category": "Billing & Refunds",
+    "ground_truth_subcategory": "Double Billing",
+    "ground_truth_escalate": false,
+    "ground_truth_reason": null
+  },
+  {
+    "ticket_id": "GOLD-002",
+    "subject": "Fraudulent charge of $49.99 on my Visa - reporting to bank",
+    "body": "I saw an unrecognized charge of $49.99 from PocketToons on my credit card statement. I never downloaded your app! I am filing a bank chargeback and notifying my lawyer if not refunded.",
+    "ground_truth_category": "Billing & Refunds",
+    "ground_truth_subcategory": "Unauthorized Charge",
+    "ground_truth_escalate": true,
+    "ground_truth_reason": "Legal threat / Bank chargeback threat / Fraudulent charge claim"
+  },
+  {
+    "ticket_id": "GOLD-003",
+    "subject": "Toddler bought 2000 coins by mistake, need refund",
+    "body": "My toddler was holding my phone and accidentally bought the $29.99 coin pack. The 2000 coins are completely untouched. Please issue a refund for order ORD-110293.",
+    "ground_truth_category": "Billing & Refunds",
+    "ground_truth_subcategory": "Refund Request",
+    "ground_truth_escalate": false,
+    "ground_truth_reason": null
+  },
+  {
+    "ticket_id": "GOLD-004",
+    "subject": "Cancel VIP membership subscription",
+    "body": "I want to cancel my auto-renewing $9.99 VIP pass starting next month. The cancel button in settings keeps loading forever. Please cancel it for me.",
+    "ground_truth_category": "Billing & Refunds",
+    "ground_truth_subcategory": "Subscription Cancellation Issue",
+    "ground_truth_escalate": false,
+    "ground_truth_reason": null
+  },
+  {
+    "ticket_id": "GOLD-005",
+    "subject": "Payment failed but money debited from bank account",
+    "body": "I tried buying 500 coins for $9.99. The app said 'Transaction Failed' but my bank debited $9.99. Reference ORD-771239. Either give me coins or refund money.",
+    "ground_truth_category": "Billing & Refunds",
+    "ground_truth_subcategory": "Payment Method Failed",
+    "ground_truth_escalate": false,
+    "ground_truth_reason": null
+  },
+  {
+    "ticket_id": "GOLD-006",
+    "subject": "Overcharged for monthly pass",
+    "body": "The price listed in app was $4.99 but my receipt shows $9.99 for order ORD-331902. Please refund the $5 difference.",
+    "ground_truth_category": "Billing & Refunds",
+    "ground_truth_subcategory": "Refund Request",
+    "ground_truth_escalate": false,
+    "ground_truth_reason": null
+  },
+  {
+    "ticket_id": "GOLD-007",
+    "subject": "Paid $9.99 for 500 coins but wallet balance is 0",
+    "body": "I bought the $9.99 coin bundle 1 hour ago. Received Google Play receipt ORD-881203, but my coin wallet still says 0 coins. User ID USR-49120. Please add my coins.",
+    "ground_truth_category": "Content Access & Coins",
+    "ground_truth_subcategory": "Coins Not Credited",
+    "ground_truth_escalate": false,
+    "ground_truth_reason": null
+  },
+  {
+    "ticket_id": "GOLD-008",
+    "subject": "Episode 15 locked after I spent 10 coins",
+    "body": "I unlocked Episode 15 of 'CEO Billionaire' for 10 coins. Coins were deducted, but the episode still shows a padlock icon and asks for 10 coins again. Please unlock it.",
+    "ground_truth_category": "Content Access & Coins",
+    "ground_truth_subcategory": "Episode Locked After Unlock",
+    "ground_truth_escalate": false,
+    "ground_truth_reason": null
+  },
+  {
+    "ticket_id": "GOLD-009",
+    "subject": "Annual VIP member status disappeared",
+    "body": "I purchased the yearly VIP pass 3 months ago. After today's update, the app says I am a Free User and locks all VIP episodes. Restore purchases is failing.",
+    "ground_truth_category": "Content Access & Coins",
+    "ground_truth_subcategory": "VIP Membership Missing",
+    "ground_truth_escalate": false,
+    "ground_truth_reason": null
+  },
+  {
+    "ticket_id": "GOLD-010",
+    "subject": "Purchased audiobook season missing from library",
+    "body": "I purchased Season 1 of 'Shadow Hunter' for 300 coins. It was in my library yesterday, but today the show page says I have to buy it again.",
+    "ground_truth_category": "Content Access & Coins",
+    "ground_truth_subcategory": "Show Missing",
+    "ground_truth_escalate": false,
+    "ground_truth_reason": null
+  },
+  {
+    "ticket_id": "GOLD-011",
+    "subject": "Promo code redeemed but no bonus coins added",
+    "body": "I redeemed code POCKET2026 for 50 free bonus coins. It showed 'Success', but my coin balance didn't change from 20.",
+    "ground_truth_category": "Content Access & Coins",
+    "ground_truth_subcategory": "Coins Not Credited",
+    "ground_truth_escalate": false,
+    "ground_truth_reason": null
+  },
+  {
+    "ticket_id": "GOLD-012",
+    "subject": "Lost 5000 coins after signing into new phone",
+    "body": "I had over 5000 paid coins on my old phone. Signed into my new iPhone and my balance is 0! User ID USR-99120. Where did all my paid coins go?",
+    "ground_truth_category": "Content Access & Coins",
+    "ground_truth_subcategory": "Content Sync Error",
+    "ground_truth_escalate": true,
+    "ground_truth_reason": "High coin balance discrepancy (>1000 coins)"
+  },
+  {
+    "ticket_id": "GOLD-013",
+    "subject": "App crashes immediately on open on Samsung Galaxy S23",
+    "body": "Since updating to v3.12.1, PocketToons crashes to home screen 1 second after tapping the icon. Device: Samsung Galaxy S23 (Android 14). Clearing cache didn't help.",
+    "ground_truth_category": "Technical & Playback Bugs",
+    "ground_truth_subcategory": "App Crash",
+    "ground_truth_escalate": false,
+    "ground_truth_reason": null
+  },
+  {
+    "ticket_id": "GOLD-014",
+    "subject": "Audio stutters and pauses every 10 seconds on Wi-Fi",
+    "body": "Every episode I play buffers endlessly and stutters even though my Wi-Fi is 200Mbps. Other apps like Spotify stream fine.",
+    "ground_truth_category": "Technical & Playback Bugs",
+    "ground_truth_subcategory": "Audio Stutter / Buffering",
+    "ground_truth_escalate": false,
+    "ground_truth_reason": null
+  },
+  {
+    "ticket_id": "GOLD-015",
+    "subject": "Offline downloaded episodes will not play in airplane mode",
+    "body": "I downloaded 15 episodes for my flight. When I turn on airplane mode, the app displays 'No Network' and locks all downloaded episodes.",
+    "ground_truth_category": "Technical & Playback Bugs",
+    "ground_truth_subcategory": "Offline Download Failed",
+    "ground_truth_escalate": false,
+    "ground_truth_reason": null
+  },
+  {
+    "ticket_id": "GOLD-016",
+    "subject": "Audio stops whenever screen locks",
+    "body": "Background playback isn't working. As soon as my iPhone display turns off, the audio playback immediately freezes.",
+    "ground_truth_category": "Technical & Playback Bugs",
+    "ground_truth_subcategory": "Background Playback Issue",
+    "ground_truth_escalate": false,
+    "ground_truth_reason": null
+  },
+  {
+    "ticket_id": "GOLD-017",
+    "subject": "CarPlay audio disconnected and app crashed phone",
+    "body": "When connected to Apple CarPlay, starting episode 4 froze my head unit and crashed the app completely on iOS 17.",
+    "ground_truth_category": "Technical & Playback Bugs",
+    "ground_truth_subcategory": "CarPlay / Bluetooth Glitch",
+    "ground_truth_escalate": false,
+    "ground_truth_reason": null
+  },
+  {
+    "ticket_id": "GOLD-018",
+    "subject": "URGENT: Someone hacked my account and spent my coins!",
+    "body": "I got a notification that my account was logged into from Germany. I live in Texas! Someone spent 600 of my coins on random shows. Freeze my account immediately and reset password!",
+    "ground_truth_category": "Account & Security",
+    "ground_truth_subcategory": "Suspicious Activity / Hacked Account",
+    "ground_truth_escalate": true,
+    "ground_truth_reason": "Account security breach / Unauthorized access"
+  },
+  {
+    "ticket_id": "GOLD-019",
+    "subject": "OTP verification SMS code never arrives",
+    "body": "I'm trying to log in with my phone number +15550192, but I have been waiting for the 6-digit SMS code for 20 minutes. Resend OTP button doesn't work.",
+    "ground_truth_category": "Account & Security",
+    "ground_truth_subcategory": "Cannot Login / OTP Fail",
+    "ground_truth_escalate": false,
+    "ground_truth_reason": null
+  },
+  {
+    "ticket_id": "GOLD-020",
+    "subject": "GDPR Right to be Forgotten - Delete my account data",
+    "body": "Under GDPR Article 17, I formally request full erasure of my account USR-88129 and all stored personal/billing data from your servers within 30 days.",
+    "ground_truth_category": "Account & Security",
+    "ground_truth_subcategory": "Account Deletion Request",
+    "ground_truth_escalate": true,
+    "ground_truth_reason": "Regulatory compliance (GDPR data erasure)"
+  },
+  {
+    "ticket_id": "GOLD-021",
+    "subject": "Password reset link link expired error",
+    "body": "I clicked 'Forgot Password' and got the email, but clicking the link immediately gives 'Token Expired' error.",
+    "ground_truth_category": "Account & Security",
+    "ground_truth_subcategory": "Password Reset Issue",
+    "ground_truth_escalate": false,
+    "ground_truth_reason": null
+  },
+  {
+    "ticket_id": "GOLD-022",
+    "subject": "Changed email address and lost access",
+    "body": "I updated my email address in profile settings but made a typo. Now I am logged out and cannot receive verification emails to log back in.",
+    "ground_truth_category": "Account & Security",
+    "ground_truth_subcategory": "Cannot Login / OTP Fail",
+    "ground_truth_escalate": false,
+    "ground_truth_reason": null
+  },
+  {
+    "ticket_id": "GOLD-023",
+    "subject": "Love the app! Suggestion for Sleep Timer",
+    "body": "PocketToons is amazing! It would be really helpful to have a 30-minute Sleep Timer option in the player so it stops playing after I fall asleep.",
+    "ground_truth_category": "Feedback & General",
+    "ground_truth_subcategory": "App UI / UX Suggestion",
+    "ground_truth_escalate": false,
+    "ground_truth_reason": null
+  },
+  {
+    "ticket_id": "GOLD-024",
+    "subject": "Narrator voice change in Season 2 of Alpha King",
+    "body": "The narrator for Season 2 of Alpha King sounds very different from Season 1. Is it possible to bring back the original narrator?",
+    "ground_truth_category": "Feedback & General",
+    "ground_truth_subcategory": "Narrator Voice Feedback",
+    "ground_truth_escalate": false,
+    "ground_truth_reason": null
+  },
+  {
+    "ticket_id": "GOLD-025",
+    "subject": "Dark mode feature request for Android app",
+    "body": "The app is great when listening at night, but the bright white background hurts my eyes. Please add a Dark Theme toggle!",
+    "ground_truth_category": "Feedback & General",
+    "ground_truth_subcategory": "App UI / UX Suggestion",
+    "ground_truth_escalate": false,
+    "ground_truth_reason": null
+  }
+]

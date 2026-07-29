@@ -1,0 +1,95 @@
+{
+  "dataset": "data/gold_eval_dataset.json",
+  "sample_size": 25,
+  "overall_classification_metrics": {
+    "accuracy": 0.92,
+    "macro_precision": 0.95,
+    "macro_recall": 0.9333,
+    "macro_f1": 0.9314,
+    "weighted_f1": 0.9177
+  },
+  "escalation_metrics": {
+    "escalation_accuracy": 0.76,
+    "escalation_precision": 0.375,
+    "escalation_recall": 0.75,
+    "escalation_f1": 0.5
+  },
+  "per_category_metrics": {
+    "Billing & Refunds": {
+      "precision": 1.0,
+      "recall": 0.6667,
+      "f1_score": 0.8,
+      "support": 6
+    },
+    "Content Access & Coins": {
+      "precision": 0.75,
+      "recall": 1.0,
+      "f1_score": 0.8571,
+      "support": 6
+    },
+    "Technical & Playback Bugs": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1_score": 1.0,
+      "support": 5
+    },
+    "Account & Security": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1_score": 1.0,
+      "support": 5
+    },
+    "Feedback & General": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1_score": 1.0,
+      "support": 3
+    }
+  },
+  "confusion_matrix": {
+    "labels": [
+      "Billing & Refunds",
+      "Content Access & Coins",
+      "Technical & Playback Bugs",
+      "Account & Security",
+      "Feedback & General"
+    ],
+    "matrix": [
+      [
+        4,
+        2,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        6,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        5,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        5,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        3
+      ]
+    ]
+  }
+}

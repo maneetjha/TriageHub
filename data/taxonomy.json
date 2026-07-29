@@ -1,0 +1,92 @@
+{
+  "app_name": "PocketToons",
+  "version": "1.0",
+  "categories": [
+    {
+      "id": "billing_and_refunds",
+      "name": "Billing & Refunds",
+      "description": "Payment issues, accidental charges, refund requests, double billing, auto-renewal cancellations, or invoice disputes.",
+      "subcategories": [
+        "Unauthorized Charge",
+        "Double Billing",
+        "Refund Request",
+        "Subscription Cancellation Issue",
+        "Payment Method Failed"
+      ],
+      "keywords": ["charged", "refund", "double billed", "apple pay", "google play", "credit card", "bank", "unauthorized", "subscription", "cancel", "money back", "receipt", "overcharged", "invoice"],
+      "priority": "HIGH",
+      "auto_reply_eligible": true,
+      "escalation_triggers": ["chargeback", "lawyer", "attorney", "unauthorized transaction over 50", "bank dispute", "fraud"]
+    },
+    {
+      "id": "content_access_and_coins",
+      "name": "Content Access & Coins",
+      "description": "Purchased coins not showing up, episodes remaining locked after spending coins, VIP pass not active, missing unlocked audiobooks/shows.",
+      "subcategories": [
+        "Coins Not Credited",
+        "Episode Locked After Unlock",
+        "VIP Membership Missing",
+        "Show Missing",
+        "Content Sync Error"
+      ],
+      "keywords": ["coins", "unlocked", "episode locked", "purchased coins", "coin pack", "vip pass", "locked", "missing episode", "spent coins", "audiobook access", "microtransaction", "redeem code"],
+      "priority": "MEDIUM",
+      "auto_reply_eligible": true,
+      "escalation_triggers": ["lost 1000+ coins", "lost all my purchases", "vip paid but expired early"]
+    },
+    {
+      "id": "technical_and_playback_bugs",
+      "name": "Technical & Playback Bugs",
+      "description": "App crashes, audio buffering, player freezing, offline download failures, background audio stops, Bluetooth/CarPlay glitches.",
+      "subcategories": [
+        "App Crash",
+        "Audio Stutter / Buffering",
+        "Offline Download Failed",
+        "Background Playback Issue",
+        "CarPlay / Bluetooth Glitch"
+      ],
+      "keywords": ["crash", "buffer", "stutter", "freeze", "downloading", "offline mode", "playback error", "black screen", "silent audio", "carplay", "bluetooth", "glitch", "bug", "app stopped"],
+      "priority": "MEDIUM",
+      "auto_reply_eligible": true,
+      "escalation_triggers": ["app crashes on startup continuously", "device overheating", "data corruption"]
+    },
+    {
+      "id": "account_and_security",
+      "name": "Account & Security",
+      "description": "Login problems, OTP verification failures, password resets, account deletion / GDPR requests, suspicious login activity.",
+      "subcategories": [
+        "Cannot Login / OTP Fail",
+        "Password Reset Issue",
+        "Suspicious Activity / Hacked Account",
+        "Account Deletion Request",
+        "Profile Data Sync"
+      ],
+      "keywords": ["login", "otp", "password", "sign in", "hacked", "stolen", "unauthorized access", "delete account", "gdpr", "email change", "logged out", "verification code"],
+      "priority": "HIGH",
+      "auto_reply_eligible": false,
+      "escalation_triggers": ["hacked", "stolen account", "unauthorized access", "delete my account", "gdpr", "data erasure", "identity theft"]
+    },
+    {
+      "id": "feedback_and_general",
+      "name": "Feedback & General",
+      "description": "Feature suggestions, narrator voice reviews, content recommendations, app UI praise or critique, pricing thoughts.",
+      "subcategories": [
+        "Narrator Voice Feedback",
+        "App UI / UX Suggestion",
+        "Content Catalog Request",
+        "General Appreciation",
+        "Pricing Feedback"
+      ],
+      "keywords": ["love the app", "suggestion", "add new episodes", "narrator voice", "season 2", "more content", "great show", "dark mode", "feature request", "ui improvement"],
+      "priority": "LOW",
+      "auto_reply_eligible": true,
+      "escalation_triggers": []
+    }
+  ],
+  "global_escalation_rules": {
+    "min_confidence_threshold": 0.60,
+    "legal_keywords": ["lawyer", "attorney", "lawsuit", "sue", "legal action", "better business bureau", "bbb", "consumer protection", "ftc", "small claims"],
+    "abuse_keywords": ["scam", "scammers", "fraudulent company", "thieves", "stealing money", "police report"],
+    "extreme_sentiment_threshold": -0.8
+  }
+}

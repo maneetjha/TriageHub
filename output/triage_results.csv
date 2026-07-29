@@ -1,0 +1,1970 @@
+ticket_id,subject,body,predicted_category,predicted_subcategory,confidence_score,sentiment,escalate_to_human,escalation_reason,suggested_reply,ground_truth_category,extracted_entities,classification_reasoning,used_llm_classifier,ground_truth_escalate
+TCK-1110,VIP membership inactive on my account,"I paid for the Annual VIP Pass last month. Today after updating to v3.12.1, my account reverted to Free Tier and asks me to buy coins again. I pressed 'Restore Purchases' but nothing happened.",Content Access & Coins,Coins Not Credited,0.87,Neutral,False,,"Hello,
+
+Thank you for bringing this to our attention! We apologize for the delay in crediting your purchased coins.
+
+To immediately sync your coin wallet, please try the following steps:
+1. Force-close the PocketToons app and re-open it.
+2. Go to Profile > Account Settings and tap 'Sync Wallet Balance'.
+
+Our system has also triggered a manual sync for your recent order. Your coin balance should reflect within 5-10 minutes. If your balance does not update, please send us your Store Receipt Number and we will manually credit your account.
+
+Best regards,
+PocketToons Content Team",Content Access & Coins,,,,
+TCK-1096,Episode 25 locked despite using 10 coins,Unlocked Episodes 10 to 15 in bulk for 50 coins. Episodes 12 and 13 are still showing a padlock icon. Please restore my unlocked episodes.,Content Access & Coins,Episode Locked After Unlock,0.95,Negative,False,,"Hello,
+
+We apologize for the glitch with your unlocked episode!
+
+We have refreshed your content access tokens on our server for your account. Please force-close the app, reopen the show page, and tap 'Restore Unlocked Episodes'. You should now be able to play all unlocked episodes smoothly without any extra coin deductions.
+
+Happy listening!
+PocketToons Support Team",Content Access & Coins,,,,
+TCK-1045,Charged after cancelling VIP membership,Where is the cancel button for PocketToons VIP? It keeps giving me an error message when I click 'Manage Subscription'. Stop billing my card!,Billing & Refunds,Unauthorized Charge,0.95,Negative,False,,"Hello,
+
+Thank you for reaching out to PocketToons Billing Support.
+
+We have received your billing query. Our billing team is reviewing your transaction logs. If any discrepancies or unauthorized charges are identified, rest assured they will be immediately adjusted or refunded.
+
+Thank you for your patience,
+PocketToons Support Team",Billing & Refunds,,,,
+TCK-1004,Unauthorized auto-renewal after cancellation,I noticed a charge of $49.99 from PocketToons on my credit card today. I cancelled my subscription last month! This is an unauthorized charge. Refund me now or I will file a bank chargeback.,Billing & Refunds,Unauthorized Charge,0.95,Severe/Frustrated,True,Category escalation trigger ('chargeback') | Severe frustration on high-priority category,"[HUMAN AGENT DRAFT ONLY - DO NOT AUTO-SEND]
+Reason for Escalation: Category escalation trigger ('chargeback') | Severe frustration on high-priority category
+
+Hello,
+Thank you for reaching out to PocketToons Support. Your request has been escalated to a senior support specialist for priority review. A team member will inspect your account details and follow up with you within 2-4 hours.
+
+Best regards,
+PocketToons Tier 2 Escalations Team",Billing & Refunds,,,,
+TCK-1015,Need refund for coin pack - child purchased by mistake,I accidentally bought the wrong coin tier ($19.99 instead of $4.99). I haven't spent any of the coins. Please refund Order #ORD-399105 so I can buy the correct one.,Content Access & Coins,Coins Not Credited,0.87,Negative,False,,"Hello,
+
+Thank you for bringing this to our attention! We apologize for the delay in crediting your purchased coins.
+
+To immediately sync your coin wallet, please try the following steps:
+1. Force-close the PocketToons app and re-open it.
+2. Go to Profile > Account Settings and tap 'Sync Wallet Balance'.
+
+Our system has also triggered a manual sync for your recent order. Your coin balance should reflect within 5-10 minutes. If your balance does not update, please send us your Store Receipt Number and we will manually credit your account.
+
+Best regards,
+PocketToons Content Team",Billing & Refunds,,,,
+TCK-1099,Episode 25 locked despite using 10 coins,"I spent 15 coins to unlock Episode 45 of 'Shadow Monarch', my coins were deducted, but when I click play it asks me to spend another 15 coins! Please fix this lock state.",Content Access & Coins,Episode Locked After Unlock,0.87,Negative,False,,"Hello,
+
+We apologize for the glitch with your unlocked episode!
+
+We have refreshed your content access tokens on our server for your account. Please force-close the app, reopen the show page, and tap 'Restore Unlocked Episodes'. You should now be able to play all unlocked episodes smoothly without any extra coin deductions.
+
+Happy listening!
+PocketToons Support Team",Content Access & Coins,,,,
+TCK-1083,Purchased 1000 coins but balance is still 0,Payment was successful on Google Play but the app threw an error 'Transaction Pending' and my coins are missing. Please help credit them.,Content Access & Coins,Coins Not Credited,0.78,Negative,False,,"Hello,
+
+Thank you for bringing this to our attention! We apologize for the delay in crediting your purchased coins.
+
+To immediately sync your coin wallet, please try the following steps:
+1. Force-close the PocketToons app and re-open it.
+2. Go to Profile > Account Settings and tap 'Sync Wallet Balance'.
+
+Our system has also triggered a manual sync for your recent order. Your coin balance should reflect within 5-10 minutes. If your balance does not update, please send us your Store Receipt Number and we will manually credit your account.
+
+Best regards,
+PocketToons Content Team",Content Access & Coins,,,,
+TCK-1005,Unauthorized auto-renewal after cancellation,I am contacting my bank and attorney if this $50 unauthorized renewal is not refunded immediately. Order ID ORD-653306.,Billing & Refunds,Unauthorized Charge,0.95,Severe/Frustrated,True,Legal/Regulatory escalation trigger ('attorney') | Category escalation trigger ('attorney') | Severe frustration on high-priority category,"[HUMAN AGENT DRAFT ONLY - DO NOT AUTO-SEND]
+Reason for Escalation: Legal/Regulatory escalation trigger ('attorney') | Category escalation trigger ('attorney') | Severe frustration on high-priority category
+
+Hello,
+Thank you for reaching out to PocketToons Support. Your request has been escalated to a senior support specialist for priority review. A team member will inspect your account details and follow up with you within 2-4 hours.
+
+Best regards,
+PocketToons Tier 2 Escalations Team",Billing & Refunds,,,,
+TCK-1057,Duplicate charge on my credit card receipt #ORD-126925,"Hi, I bought the $9.99 coin bundle yesterday on my iPhone. My bank statement shows two pending charges of $9.99 on the same minute! Transaction ID: ORD-126925. Please refund the extra $9.99.",Billing & Refunds,Unauthorized Charge,0.95,Severe/Frustrated,True,Severe frustration on high-priority category,"[HUMAN AGENT DRAFT ONLY - DO NOT AUTO-SEND]
+Reason for Escalation: Severe frustration on high-priority category
+
+Hello,
+Thank you for reaching out to PocketToons Support. Your request has been escalated to a senior support specialist for priority review. A team member will inspect your account details and follow up with you within 2-4 hours.
+
+Best regards,
+PocketToons Tier 2 Escalations Team",Billing & Refunds,,,,
+TCK-1134,Downloaded episodes won't play offline,Downloads get stuck at 99% and fail with code ERR_STORAGE_WRITE. Device has over 30GB free storage available.,Content Access & Coins,Episode Locked After Unlock,0.29,Negative,True,Low classifier confidence (0.29 < 0.60),"[HUMAN AGENT DRAFT ONLY - DO NOT AUTO-SEND]
+Reason for Escalation: Low classifier confidence (0.29 < 0.60)
+
+Hello,
+Thank you for reaching out to PocketToons Support. Your request has been escalated to a senior support specialist for priority review. A team member will inspect your account details and follow up with you within 2-4 hours.
+
+Best regards,
+PocketToons Tier 2 Escalations Team",Technical & Playback Bugs,,,,
+TCK-1070,Need refund for coin pack - child purchased by mistake,I accidentally bought the wrong coin tier ($19.99 instead of $4.99). I haven't spent any of the coins. Please refund Order #ORD-478411 so I can buy the correct one.,Content Access & Coins,Coins Not Credited,0.87,Negative,False,,"Hello,
+
+Thank you for bringing this to our attention! We apologize for the delay in crediting your purchased coins.
+
+To immediately sync your coin wallet, please try the following steps:
+1. Force-close the PocketToons app and re-open it.
+2. Go to Profile > Account Settings and tap 'Sync Wallet Balance'.
+
+Our system has also triggered a manual sync for your recent order. Your coin balance should reflect within 5-10 minutes. If your balance does not update, please send us your Store Receipt Number and we will manually credit your account.
+
+Best regards,
+PocketToons Content Team",Billing & Refunds,,,,
+TCK-1027,Unrecognized charge of $49.99 on my statement,My credit card was charged $19.99 for coins I never purchased. I haven't opened the app in weeks. Please investigate this fraudulent charge and issue a full refund.,Billing & Refunds,Unauthorized Charge,0.95,Severe/Frustrated,True,Legal/Regulatory escalation trigger ('sue') | Category escalation trigger ('fraud') | Severe frustration on high-priority category,"[HUMAN AGENT DRAFT ONLY - DO NOT AUTO-SEND]
+Reason for Escalation: Legal/Regulatory escalation trigger ('sue') | Category escalation trigger ('fraud') | Severe frustration on high-priority category
+
+Hello,
+Thank you for reaching out to PocketToons Support. Your request has been escalated to a senior support specialist for priority review. A team member will inspect your account details and follow up with you within 2-4 hours.
+
+Best regards,
+PocketToons Tier 2 Escalations Team",Billing & Refunds,,,,
+TCK-1094,VIP membership inactive on my account,"I paid for the Annual VIP Pass last month. Today after updating to v3.10.4, my account reverted to Free Tier and asks me to buy coins again. I pressed 'Restore Purchases' but nothing happened.",Content Access & Coins,Coins Not Credited,0.87,Neutral,False,,"Hello,
+
+Thank you for bringing this to our attention! We apologize for the delay in crediting your purchased coins.
+
+To immediately sync your coin wallet, please try the following steps:
+1. Force-close the PocketToons app and re-open it.
+2. Go to Profile > Account Settings and tap 'Sync Wallet Balance'.
+
+Our system has also triggered a manual sync for your recent order. Your coin balance should reflect within 5-10 minutes. If your balance does not update, please send us your Store Receipt Number and we will manually credit your account.
+
+Best regards,
+PocketToons Content Team",Content Access & Coins,,,,
+TCK-1001,Refund request for accidental purchase,The audio quality of the series 'The Billionaire's Secret' is unlistenable and muffled. I want a refund of the $9.99 VIP pass I bought 2 hours ago.,Billing & Refunds,Refund Request,0.78,Negative,False,,"Hello,
+
+Thank you for reaching out to PocketToons Support regarding your refund request.
+
+We understand accidental purchases can happen. We have logged your request. If this purchase was made within the last 14 days and the coin balance/content remains unused, our billing system will automatically process a full refund to your original payment method within 24-48 hours.
+
+Please confirm your Order ID if you haven't attached it yet so we can expedite your processing.
+
+Best regards,
+PocketToons Billing Team",Billing & Refunds,,,,
+TCK-1193,Audio volume balance between voice and background music,"I love the audio show 'Vampire Prince', but the background music is way too loud compared to the narrator's voice. Could you adjust the audio mixing in future episodes?",Feedback & General,Narrator Voice Feedback,0.57,Positive,True,Low classifier confidence (0.57 < 0.60),"[HUMAN AGENT DRAFT ONLY - DO NOT AUTO-SEND]
+Reason for Escalation: Low classifier confidence (0.57 < 0.60)
+
+Hello,
+Thank you for reaching out to PocketToons Support. Your request has been escalated to a senior support specialist for priority review. A team member will inspect your account details and follow up with you within 2-4 hours.
+
+Best regards,
+PocketToons Tier 2 Escalations Team",Feedback & General,,,,
+TCK-1023,Fraudulent charge from PocketToons,I am contacting my bank and attorney if this $50 unauthorized renewal is not refunded immediately. Order ID ORD-221035.,Billing & Refunds,Unauthorized Charge,0.95,Severe/Frustrated,True,Legal/Regulatory escalation trigger ('attorney') | Category escalation trigger ('attorney') | Category escalation trigger ('fraud') | Severe frustration on high-priority category,"[HUMAN AGENT DRAFT ONLY - DO NOT AUTO-SEND]
+Reason for Escalation: Legal/Regulatory escalation trigger ('attorney') | Category escalation trigger ('attorney') | Category escalation trigger ('fraud') | Severe frustration on high-priority category
+
+Hello,
+Thank you for reaching out to PocketToons Support. Your request has been escalated to a senior support specialist for priority review. A team member will inspect your account details and follow up with you within 2-4 hours.
+
+Best regards,
+PocketToons Tier 2 Escalations Team",Billing & Refunds,,,,
+TCK-1192,Library organization suggestion,Please add a folder or playlist feature in 'My Library' to organize finished vs. ongoing shows.,Feedback & General,App UI / UX Suggestion,0.78,Neutral,False,,"Hello,
+
+Thank you so much for taking the time to share your feedback with PocketToons!
+
+We love hearing from our listeners. Your suggestions have been shared directly with our Product and Content teams as we work on upcoming app updates and show releases.
+
+Thanks for being a valued part of our community!
+
+Warmly,
+PocketToons Product Team",Feedback & General,,,,
+TCK-1151,Audio speeds up and sounds robot-like,"Whenever I play any audio show, the track plays 5 seconds then buffers endlessly. My internet connection is fast (100 Mbps). Device: Xiaomi Redmi Note 12 (Android 13).",Technical & Playback Bugs,Audio Stutter / Buffering,0.78,Neutral,False,,"Hello,
+
+Thank you for reporting this playback issue to PocketToons Engineering.
+
+We recommend attempting the following troubleshooting steps:
+1. Ensure your app is updated to the latest version in App Store / Play Store.
+2. Go to Settings > Storage & Cache > Clear Cache.
+3. Toggle Airplane Mode ON for 5 seconds and back OFF.
+
+Our tech team has logged your device details for further diagnostics.
+
+Best regards,
+PocketToons Tech Support",Technical & Playback Bugs,,,,
+TCK-1136,Audio speeds up and sounds robot-like,"Whenever I play any audio show, the track plays 5 seconds then buffers endlessly. My internet connection is fast (100 Mbps). Device: Web Browser (Chrome 122).",Technical & Playback Bugs,Audio Stutter / Buffering,0.78,Neutral,False,,"Hello,
+
+Thank you for reporting this playback issue to PocketToons Engineering.
+
+We recommend attempting the following troubleshooting steps:
+1. Ensure your app is updated to the latest version in App Store / Play Store.
+2. Go to Settings > Storage & Cache > Clear Cache.
+3. Toggle Airplane Mode ON for 5 seconds and back OFF.
+
+Our tech team has logged your device details for further diagnostics.
+
+Best regards,
+PocketToons Tech Support",Technical & Playback Bugs,,,,
+TCK-1118,VIP membership inactive on my account,"I paid for the Annual VIP Pass last month. Today after updating to v3.10.4, my account reverted to Free Tier and asks me to buy coins again. I pressed 'Restore Purchases' but nothing happened.",Content Access & Coins,Coins Not Credited,0.87,Neutral,False,,"Hello,
+
+Thank you for bringing this to our attention! We apologize for the delay in crediting your purchased coins.
+
+To immediately sync your coin wallet, please try the following steps:
+1. Force-close the PocketToons app and re-open it.
+2. Go to Profile > Account Settings and tap 'Sync Wallet Balance'.
+
+Our system has also triggered a manual sync for your recent order. Your coin balance should reflect within 5-10 minutes. If your balance does not update, please send us your Store Receipt Number and we will manually credit your account.
+
+Best regards,
+PocketToons Content Team",Content Access & Coins,,,,
+TCK-1017,Cannot cancel monthly subscription,"I tried cancelling my $9.99 monthly pass in settings last week, but I was still billed today. Please verify my cancellation and refund this month's charge.",Billing & Refunds,Subscription Cancellation Issue,0.95,Negative,False,,"Hello,
+
+Thanks for reaching out to PocketToons. We're sorry to see you go!
+
+We have verified your account and stopped any future recurring auto-renewals for your subscription. You will continue to have full access to your VIP privileges until the end of your current billing cycle.
+
+You can also manage your subscriptions directly via your device settings:
+• iOS: Settings > Apple ID > Subscriptions > PocketToons
+• Android: Play Store > Profile > Payments & subscriptions > Subscriptions
+
+Let us know if you need anything else!
+
+Warm regards,
+PocketToons Customer Care",Billing & Refunds,,,,
+TCK-1029,Charged after cancelling VIP membership,Where is the cancel button for PocketToons VIP? It keeps giving me an error message when I click 'Manage Subscription'. Stop billing my card!,Billing & Refunds,Unauthorized Charge,0.95,Negative,False,,"Hello,
+
+Thank you for reaching out to PocketToons Billing Support.
+
+We have received your billing query. Our billing team is reviewing your transaction logs. If any discrepancies or unauthorized charges are identified, rest assured they will be immediately adjusted or refunded.
+
+Thank you for your patience,
+PocketToons Support Team",Billing & Refunds,,,,
+TCK-1127,Purchased 1000 coins but balance is still 0,"Hey support, I bought 500 coins for $9.99. Receipt #ORD-437758 received, but coins haven't shown up after restarting the app. User ID: USR-13478.",Content Access & Coins,Coins Not Credited,0.78,Neutral,False,,"Hello,
+
+Thank you for bringing this to our attention! We apologize for the delay in crediting your purchased coins.
+
+To immediately sync your coin wallet, please try the following steps:
+1. Force-close the PocketToons app and re-open it.
+2. Go to Profile > Account Settings and tap 'Sync Wallet Balance'.
+
+Our system has also triggered a manual sync for your recent order. Your coin balance should reflect within 5-10 minutes. If your balance does not update, please send us your Store Receipt Number and we will manually credit your account.
+
+Best regards,
+PocketToons Content Team",Content Access & Coins,,,,
+TCK-1035,Double billing issue on order ORD-945687,"Hi, I bought the $9.99 coin bundle yesterday on my iPhone. My bank statement shows two pending charges of $9.99 on the same minute! Transaction ID: ORD-945687. Please refund the extra $9.99.",Billing & Refunds,Double Billing,0.87,Severe/Frustrated,True,Legal/Regulatory escalation trigger ('sue') | Severe frustration on high-priority category,"[HUMAN AGENT DRAFT ONLY - DO NOT AUTO-SEND]
+Reason for Escalation: Legal/Regulatory escalation trigger ('sue') | Severe frustration on high-priority category
+
+Hello,
+Thank you for reaching out to PocketToons Support. Your request has been escalated to a senior support specialist for priority review. A team member will inspect your account details and follow up with you within 2-4 hours.
+
+Best regards,
+PocketToons Tier 2 Escalations Team",Billing & Refunds,,,,
+TCK-1146,App freeze during coin checkout,Crash report: app crashes every time I try to play Episode 10 of any series.,Technical & Playback Bugs,App Crash,0.87,Neutral,False,,"Hello,
+
+Thank you for reporting this playback issue to PocketToons Engineering.
+
+We recommend attempting the following troubleshooting steps:
+1. Ensure your app is updated to the latest version in App Store / Play Store.
+2. Go to Settings > Storage & Cache > Clear Cache.
+3. Toggle Airplane Mode ON for 5 seconds and back OFF.
+
+Our tech team has logged your device details for further diagnostics.
+
+Best regards,
+PocketToons Tech Support",Technical & Playback Bugs,,,,
+TCK-1178,Login error code 500,"I'm trying to log in using my phone number, but the 6-digit OTP SMS code is never delivered to my phone. I tried 5 times. Please help me log in.",Account & Security,Cannot Login / OTP Fail,0.87,Negative,True,Category 'Account & Security' requires human agent review,"[HUMAN AGENT DRAFT ONLY - DO NOT AUTO-SEND]
+Reason for Escalation: Category 'Account & Security' requires human agent review
+
+Hello,
+Thank you for reaching out to PocketToons Support. Your request has been escalated to a senior support specialist for priority review. A team member will inspect your account details and follow up with you within 2-4 hours.
+
+Best regards,
+PocketToons Tier 2 Escalations Team",Account & Security,,,,
+TCK-1048,Cannot cancel monthly subscription,Please cancel my subscription immediately and send confirmation to my email. I do not want auto-renew enabled.,Billing & Refunds,Subscription Cancellation Issue,0.87,Negative,False,,"Hello,
+
+Thanks for reaching out to PocketToons. We're sorry to see you go!
+
+We have verified your account and stopped any future recurring auto-renewals for your subscription. You will continue to have full access to your VIP privileges until the end of your current billing cycle.
+
+You can also manage your subscriptions directly via your device settings:
+• iOS: Settings > Apple ID > Subscriptions > PocketToons
+• Android: Play Store > Profile > Payments & subscriptions > Subscriptions
+
+Let us know if you need anything else!
+
+Warm regards,
+PocketToons Customer Care",Billing & Refunds,,,,
+TCK-1112,Restore purchase not working for VIP pass,"I paid for the Annual VIP Pass last month. Today after updating to v3.11.8, my account reverted to Free Tier and asks me to buy coins again. I pressed 'Restore Purchases' but nothing happened.",Content Access & Coins,Coins Not Credited,0.87,Neutral,False,,"Hello,
+
+Thank you for bringing this to our attention! We apologize for the delay in crediting your purchased coins.
+
+To immediately sync your coin wallet, please try the following steps:
+1. Force-close the PocketToons app and re-open it.
+2. Go to Profile > Account Settings and tap 'Sync Wallet Balance'.
+
+Our system has also triggered a manual sync for your recent order. Your coin balance should reflect within 5-10 minutes. If your balance does not update, please send us your Store Receipt Number and we will manually credit your account.
+
+Best regards,
+PocketToons Content Team",Content Access & Coins,,,,
+TCK-1173,Login error code 500,"I'm trying to log in using my phone number, but the 6-digit OTP SMS code is never delivered to my phone. I tried 5 times. Please help me log in.",Account & Security,Cannot Login / OTP Fail,0.87,Negative,True,Category 'Account & Security' requires human agent review,"[HUMAN AGENT DRAFT ONLY - DO NOT AUTO-SEND]
+Reason for Escalation: Category 'Account & Security' requires human agent review
+
+Hello,
+Thank you for reaching out to PocketToons Support. Your request has been escalated to a senior support specialist for priority review. A team member will inspect your account details and follow up with you within 2-4 hours.
+
+Best regards,
+PocketToons Tier 2 Escalations Team",Account & Security,,,,
+TCK-1020,Refund request for accidental purchase,My 6-year-old toddler tapped the screen and accidentally bought the 2000 coins pack for $29.99. None of the coins have been used yet. Can you please process a refund?,Billing & Refunds,Refund Request,0.78,Negative,False,,"Hello,
+
+Thank you for reaching out to PocketToons Support regarding your refund request.
+
+We understand accidental purchases can happen. We have logged your request. If this purchase was made within the last 14 days and the coin balance/content remains unused, our billing system will automatically process a full refund to your original payment method within 24-48 hours.
+
+Please confirm your Order ID if you haven't attached it yet so we can expedite your processing.
+
+Best regards,
+PocketToons Billing Team",Billing & Refunds,,,,
+TCK-1198,Suggestion for narrator sound quality,Just wanted to say the narration team for 'Alpha King' is phenomenal! Amazing sound effects and performance.,Feedback & General,Narrator Voice Feedback,0.78,Positive,False,,"Hello,
+
+Thank you so much for taking the time to share your feedback with PocketToons!
+
+We love hearing from our listeners. Your suggestions have been shared directly with our Product and Content teams as we work on upcoming app updates and show releases.
+
+Thanks for being a valued part of our community!
+
+Warmly,
+PocketToons Product Team",Feedback & General,,,,
+TCK-1168,OTP SMS code not arriving,"I'm trying to log in using my phone number, but the 6-digit OTP SMS code is never delivered to my phone. I tried 5 times. Please help me log in.",Account & Security,Cannot Login / OTP Fail,0.78,Neutral,True,Category 'Account & Security' requires human agent review,"[HUMAN AGENT DRAFT ONLY - DO NOT AUTO-SEND]
+Reason for Escalation: Category 'Account & Security' requires human agent review
+
+Hello,
+Thank you for reaching out to PocketToons Support. Your request has been escalated to a senior support specialist for priority review. A team member will inspect your account details and follow up with you within 2-4 hours.
+
+Best regards,
+PocketToons Tier 2 Escalations Team",Account & Security,,,,
+TCK-1176,GDPR data deletion request,I want to close my account permanently. How do I delete my profile data?,Account & Security,Account Deletion Request,0.83,Neutral,True,Regulatory compliance / Data deletion request | Category 'Account & Security' requires human agent review | Category escalation trigger ('gdpr'),"[HUMAN AGENT DRAFT ONLY - DO NOT AUTO-SEND]
+Reason for Escalation: Regulatory compliance / Data deletion request | Category 'Account & Security' requires human agent review | Category escalation trigger ('gdpr')
+
+Hello,
+Thank you for reaching out to PocketToons Support. Your request has been escalated to a senior support specialist for priority review. A team member will inspect your account details and follow up with you within 2-4 hours.
+
+Best regards,
+PocketToons Tier 2 Escalations Team",Account & Security,,,,
+TCK-1085,Missing coin purchase,Payment was successful on Google Play but the app threw an error 'Transaction Pending' and my coins are missing. Please help credit them.,Content Access & Coins,Coins Not Credited,0.78,Negative,False,,"Hello,
+
+Thank you for bringing this to our attention! We apologize for the delay in crediting your purchased coins.
+
+To immediately sync your coin wallet, please try the following steps:
+1. Force-close the PocketToons app and re-open it.
+2. Go to Profile > Account Settings and tap 'Sync Wallet Balance'.
+
+Our system has also triggered a manual sync for your recent order. Your coin balance should reflect within 5-10 minutes. If your balance does not update, please send us your Store Receipt Number and we will manually credit your account.
+
+Best regards,
+PocketToons Content Team",Content Access & Coins,,,,
+TCK-1067,Requesting refund for Order #ORD-882169,I accidentally bought the wrong coin tier ($19.99 instead of $4.99). I haven't spent any of the coins. Please refund Order #ORD-882169 so I can buy the correct one.,Content Access & Coins,Coins Not Credited,0.78,Negative,False,,"Hello,
+
+Thank you for bringing this to our attention! We apologize for the delay in crediting your purchased coins.
+
+To immediately sync your coin wallet, please try the following steps:
+1. Force-close the PocketToons app and re-open it.
+2. Go to Profile > Account Settings and tap 'Sync Wallet Balance'.
+
+Our system has also triggered a manual sync for your recent order. Your coin balance should reflect within 5-10 minutes. If your balance does not update, please send us your Store Receipt Number and we will manually credit your account.
+
+Best regards,
+PocketToons Content Team",Billing & Refunds,,,,
+TCK-1030,Double billing issue on order ORD-140605,"Hello team, I was charged twice for the monthly VIP pass ($14.99 x 2). I only pressed subscribe once. Please reverse the duplicate payment immediately.",Billing & Refunds,Double Billing,0.78,Severe/Frustrated,True,Legal/Regulatory escalation trigger ('sue') | Severe frustration on high-priority category,"[HUMAN AGENT DRAFT ONLY - DO NOT AUTO-SEND]
+Reason for Escalation: Legal/Regulatory escalation trigger ('sue') | Severe frustration on high-priority category
+
+Hello,
+Thank you for reaching out to PocketToons Support. Your request has been escalated to a senior support specialist for priority review. A team member will inspect your account details and follow up with you within 2-4 hours.
+
+Best regards,
+PocketToons Tier 2 Escalations Team",Billing & Refunds,,,,
+TCK-1188,Feature request: Playback speed control 2.5x,Please add a folder or playlist feature in 'My Library' to organize finished vs. ongoing shows.,Feedback & General,Content Catalog Request,0.78,Neutral,False,,"Hello,
+
+Thank you so much for taking the time to share your feedback with PocketToons!
+
+We love hearing from our listeners. Your suggestions have been shared directly with our Product and Content teams as we work on upcoming app updates and show releases.
+
+Thanks for being a valued part of our community!
+
+Warmly,
+PocketToons Product Team",Feedback & General,,,,
+TCK-1187,Feedback on narrator for 'Vampire Prince',Just wanted to say the narration team for 'Alpha King' is phenomenal! Amazing sound effects and performance.,Feedback & General,Narrator Voice Feedback,0.66,Positive,False,,"Hello,
+
+Thank you so much for taking the time to share your feedback with PocketToons!
+
+We love hearing from our listeners. Your suggestions have been shared directly with our Product and Content teams as we work on upcoming app updates and show releases.
+
+Thanks for being a valued part of our community!
+
+Warmly,
+PocketToons Product Team",Feedback & General,,,,
+TCK-1156,Crash when opening 'My Library' tab,Crash report: app crashes every time I try to play Episode 10 of any series.,Technical & Playback Bugs,App Crash,0.78,Neutral,False,,"Hello,
+
+Thank you for reporting this playback issue to PocketToons Engineering.
+
+We recommend attempting the following troubleshooting steps:
+1. Ensure your app is updated to the latest version in App Store / Play Store.
+2. Go to Settings > Storage & Cache > Clear Cache.
+3. Toggle Airplane Mode ON for 5 seconds and back OFF.
+
+Our tech team has logged your device details for further diagnostics.
+
+Best regards,
+PocketToons Tech Support",Technical & Playback Bugs,,,,
+TCK-1114,Episode 25 locked despite using 10 coins,Coins were deducted twice for unlocking the same episode! Check my transaction history.,Content Access & Coins,Episode Locked After Unlock,0.87,Negative,False,,"Hello,
+
+We apologize for the glitch with your unlocked episode!
+
+We have refreshed your content access tokens on our server for your account. Please force-close the app, reopen the show page, and tap 'Restore Unlocked Episodes'. You should now be able to play all unlocked episodes smoothly without any extra coin deductions.
+
+Happy listening!
+PocketToons Support Team",Content Access & Coins,,,,
+TCK-1181,My coin balance was drained by an unauthorized login,Urgent: Unauthorized password change notification received. I did not request this. Freeze my account to prevent fraud!,Account & Security,Account Deletion Request,0.87,Neutral,True,Account security / compromise alert | Category 'Account & Security' requires human agent review,"[HUMAN AGENT DRAFT ONLY - DO NOT AUTO-SEND]
+Reason for Escalation: Account security / compromise alert | Category 'Account & Security' requires human agent review
+
+Hello,
+Thank you for reaching out to PocketToons Support. Your request has been escalated to a senior support specialist for priority review. A team member will inspect your account details and follow up with you within 2-4 hours.
+
+Best regards,
+PocketToons Tier 2 Escalations Team",Account & Security,,,,
+TCK-1043,Charged after cancelling VIP membership,Where is the cancel button for PocketToons VIP? It keeps giving me an error message when I click 'Manage Subscription'. Stop billing my card!,Billing & Refunds,Unauthorized Charge,0.95,Negative,False,,"Hello,
+
+Thank you for reaching out to PocketToons Billing Support.
+
+We have received your billing query. Our billing team is reviewing your transaction logs. If any discrepancies or unauthorized charges are identified, rest assured they will be immediately adjusted or refunded.
+
+Thank you for your patience,
+PocketToons Support Team",Billing & Refunds,,,,
+TCK-1100,Purchased 1000 coins but balance is still 0,Payment was successful on Google Play but the app threw an error 'Transaction Pending' and my coins are missing. Please help credit them.,Content Access & Coins,Coins Not Credited,0.78,Negative,False,,"Hello,
+
+Thank you for bringing this to our attention! We apologize for the delay in crediting your purchased coins.
+
+To immediately sync your coin wallet, please try the following steps:
+1. Force-close the PocketToons app and re-open it.
+2. Go to Profile > Account Settings and tap 'Sync Wallet Balance'.
+
+Our system has also triggered a manual sync for your recent order. Your coin balance should reflect within 5-10 minutes. If your balance does not update, please send us your Store Receipt Number and we will manually credit your account.
+
+Best regards,
+PocketToons Content Team",Content Access & Coins,,,,
+TCK-1092,Episode 25 locked despite using 10 coins,Unlocked Episodes 10 to 15 in bulk for 50 coins. Episodes 12 and 13 are still showing a padlock icon. Please restore my unlocked episodes.,Content Access & Coins,Episode Locked After Unlock,0.95,Negative,False,,"Hello,
+
+We apologize for the glitch with your unlocked episode!
+
+We have refreshed your content access tokens on our server for your account. Please force-close the app, reopen the show page, and tap 'Restore Unlocked Episodes'. You should now be able to play all unlocked episodes smoothly without any extra coin deductions.
+
+Happy listening!
+PocketToons Support Team",Content Access & Coins,,,,
+TCK-1080,VIP membership inactive on my account,Paid $49.99 for yearly VIP membership. Order #ORD-402630. Still showing lock icons on exclusive episodes.,Content Access & Coins,VIP Membership Missing,0.41,Neutral,True,Low classifier confidence (0.41 < 0.60),"[HUMAN AGENT DRAFT ONLY - DO NOT AUTO-SEND]
+Reason for Escalation: Low classifier confidence (0.41 < 0.60)
+
+Hello,
+Thank you for reaching out to PocketToons Support. Your request has been escalated to a senior support specialist for priority review. A team member will inspect your account details and follow up with you within 2-4 hours.
+
+Best regards,
+PocketToons Tier 2 Escalations Team",Content Access & Coins,,,,
+TCK-1191,Please add Dark Mode support,Please add a folder or playlist feature in 'My Library' to organize finished vs. ongoing shows.,Feedback & General,Narrator Voice Feedback,0.78,Neutral,False,,"Hello,
+
+Thank you so much for taking the time to share your feedback with PocketToons!
+
+We love hearing from our listeners. Your suggestions have been shared directly with our Product and Content teams as we work on upcoming app updates and show releases.
+
+Thanks for being a valued part of our community!
+
+Warmly,
+PocketToons Product Team",Feedback & General,,,,
+TCK-1039,Fraudulent charge from PocketToons,I am contacting my bank and attorney if this $50 unauthorized renewal is not refunded immediately. Order ID ORD-596171.,Billing & Refunds,Unauthorized Charge,0.95,Severe/Frustrated,True,Legal/Regulatory escalation trigger ('attorney') | Category escalation trigger ('attorney') | Category escalation trigger ('fraud') | Severe frustration on high-priority category,"[HUMAN AGENT DRAFT ONLY - DO NOT AUTO-SEND]
+Reason for Escalation: Legal/Regulatory escalation trigger ('attorney') | Category escalation trigger ('attorney') | Category escalation trigger ('fraud') | Severe frustration on high-priority category
+
+Hello,
+Thank you for reaching out to PocketToons Support. Your request has been escalated to a senior support specialist for priority review. A team member will inspect your account details and follow up with you within 2-4 hours.
+
+Best regards,
+PocketToons Tier 2 Escalations Team",Billing & Refunds,,,,
+TCK-1126,Missing coin purchase,Payment was successful on Google Play but the app threw an error 'Transaction Pending' and my coins are missing. Please help credit them.,Content Access & Coins,Coins Not Credited,0.78,Negative,False,,"Hello,
+
+Thank you for bringing this to our attention! We apologize for the delay in crediting your purchased coins.
+
+To immediately sync your coin wallet, please try the following steps:
+1. Force-close the PocketToons app and re-open it.
+2. Go to Profile > Account Settings and tap 'Sync Wallet Balance'.
+
+Our system has also triggered a manual sync for your recent order. Your coin balance should reflect within 5-10 minutes. If your balance does not update, please send us your Store Receipt Number and we will manually credit your account.
+
+Best regards,
+PocketToons Content Team",Content Access & Coins,,,,
+TCK-1167,Permanently close my PocketToons account,"Under GDPR / CCPA regulations, I hereby request the permanent deletion of my PocketToons account (User ID: USR-88172) and all associated personal data from your systems.",Account & Security,Account Deletion Request,0.78,Neutral,True,Regulatory compliance / Data deletion request | Category 'Account & Security' requires human agent review | Category escalation trigger ('gdpr'),"[HUMAN AGENT DRAFT ONLY - DO NOT AUTO-SEND]
+Reason for Escalation: Regulatory compliance / Data deletion request | Category 'Account & Security' requires human agent review | Category escalation trigger ('gdpr')
+
+Hello,
+Thank you for reaching out to PocketToons Support. Your request has been escalated to a senior support specialist for priority review. A team member will inspect your account details and follow up with you within 2-4 hours.
+
+Best regards,
+PocketToons Tier 2 Escalations Team",Account & Security,,,,
+TCK-1049,Charged after cancelling VIP membership,Where is the cancel button for PocketToons VIP? It keeps giving me an error message when I click 'Manage Subscription'. Stop billing my card!,Billing & Refunds,Unauthorized Charge,0.95,Negative,False,,"Hello,
+
+Thank you for reaching out to PocketToons Billing Support.
+
+We have received your billing query. Our billing team is reviewing your transaction logs. If any discrepancies or unauthorized charges are identified, rest assured they will be immediately adjusted or refunded.
+
+Thank you for your patience,
+PocketToons Support Team",Billing & Refunds,,,,
+TCK-1055,I did not authorize this purchase,I am contacting my bank and attorney if this $50 unauthorized renewal is not refunded immediately. Order ID ORD-751517.,Billing & Refunds,Unauthorized Charge,0.95,Severe/Frustrated,True,Legal/Regulatory escalation trigger ('attorney') | Category escalation trigger ('attorney') | Severe frustration on high-priority category,"[HUMAN AGENT DRAFT ONLY - DO NOT AUTO-SEND]
+Reason for Escalation: Legal/Regulatory escalation trigger ('attorney') | Category escalation trigger ('attorney') | Severe frustration on high-priority category
+
+Hello,
+Thank you for reaching out to PocketToons Support. Your request has been escalated to a senior support specialist for priority review. A team member will inspect your account details and follow up with you within 2-4 hours.
+
+Best regards,
+PocketToons Tier 2 Escalations Team",Billing & Refunds,,,,
+TCK-1144,Storage full error despite 20GB free space,Downloaded files disappeared from my library after signing out and signing back in.,Account & Security,Cannot Login / OTP Fail,0.3,Negative,True,Low classifier confidence (0.30 < 0.60) | Category 'Account & Security' requires human agent review,"[HUMAN AGENT DRAFT ONLY - DO NOT AUTO-SEND]
+Reason for Escalation: Low classifier confidence (0.30 < 0.60) | Category 'Account & Security' requires human agent review
+
+Hello,
+Thank you for reaching out to PocketToons Support. Your request has been escalated to a senior support specialist for priority review. A team member will inspect your account details and follow up with you within 2-4 hours.
+
+Best regards,
+PocketToons Tier 2 Escalations Team",Technical & Playback Bugs,,,,
+TCK-1022,Fraudulent charge from PocketToons,I am contacting my bank and attorney if this $50 unauthorized renewal is not refunded immediately. Order ID ORD-974244.,Billing & Refunds,Unauthorized Charge,0.95,Severe/Frustrated,True,Legal/Regulatory escalation trigger ('attorney') | Category escalation trigger ('attorney') | Category escalation trigger ('fraud') | Severe frustration on high-priority category,"[HUMAN AGENT DRAFT ONLY - DO NOT AUTO-SEND]
+Reason for Escalation: Legal/Regulatory escalation trigger ('attorney') | Category escalation trigger ('attorney') | Category escalation trigger ('fraud') | Severe frustration on high-priority category
+
+Hello,
+Thank you for reaching out to PocketToons Support. Your request has been escalated to a senior support specialist for priority review. A team member will inspect your account details and follow up with you within 2-4 hours.
+
+Best regards,
+PocketToons Tier 2 Escalations Team",Billing & Refunds,,,,
+TCK-1108,Episode 25 locked despite using 10 coins,Coins were deducted twice for unlocking the same episode! Check my transaction history.,Content Access & Coins,Episode Locked After Unlock,0.87,Negative,False,,"Hello,
+
+We apologize for the glitch with your unlocked episode!
+
+We have refreshed your content access tokens on our server for your account. Please force-close the app, reopen the show page, and tap 'Restore Unlocked Episodes'. You should now be able to play all unlocked episodes smoothly without any extra coin deductions.
+
+Happy listening!
+PocketToons Support Team",Content Access & Coins,,,,
+TCK-1186,Remove my personal info from your servers,Please delete my account and purge my email address and payment history from your database.,Account & Security,Suspicious Activity / Hacked Account,0.64,Neutral,True,Regulatory compliance / Data deletion request | Category 'Account & Security' requires human agent review | Category escalation trigger ('delete my account'),"[HUMAN AGENT DRAFT ONLY - DO NOT AUTO-SEND]
+Reason for Escalation: Regulatory compliance / Data deletion request | Category 'Account & Security' requires human agent review | Category escalation trigger ('delete my account')
+
+Hello,
+Thank you for reaching out to PocketToons Support. Your request has been escalated to a senior support specialist for priority review. A team member will inspect your account details and follow up with you within 2-4 hours.
+
+Best regards,
+PocketToons Tier 2 Escalations Team",Account & Security,,,,
+TCK-1026,Cannot cancel monthly subscription,Where is the cancel button for PocketToons VIP? It keeps giving me an error message when I click 'Manage Subscription'. Stop billing my card!,Billing & Refunds,Double Billing,0.87,Negative,False,,"Hello,
+
+Thank you for contacting PocketToons Support! We apologize for the inconvenience caused by the duplicate charge on your account.
+
+We have submitted a reversal request for your second transaction. Depending on your financial institution or app store (Apple App Store / Google Play), the refunded amount should reflect in your bank statement within 3 to 5 business days.
+
+If you need further assistance with your transaction receipts, please reply directly to this thread.
+
+Warm regards,
+PocketToons Support Team",Billing & Refunds,,,,
+TCK-1072,Episode 25 locked despite using 10 coins,Unlocked Episodes 10 to 15 in bulk for 50 coins. Episodes 12 and 13 are still showing a padlock icon. Please restore my unlocked episodes.,Content Access & Coins,Episode Locked After Unlock,0.95,Negative,False,,"Hello,
+
+We apologize for the glitch with your unlocked episode!
+
+We have refreshed your content access tokens on our server for your account. Please force-close the app, reopen the show page, and tap 'Restore Unlocked Episodes'. You should now be able to play all unlocked episodes smoothly without any extra coin deductions.
+
+Happy listening!
+PocketToons Support Team",Content Access & Coins,,,,
+TCK-1009,I did not authorize this purchase,My credit card was charged $19.99 for coins I never purchased. I haven't opened the app in weeks. Please investigate this fraudulent charge and issue a full refund.,Billing & Refunds,Unauthorized Charge,0.95,Severe/Frustrated,True,Legal/Regulatory escalation trigger ('sue') | Category escalation trigger ('fraud') | Severe frustration on high-priority category,"[HUMAN AGENT DRAFT ONLY - DO NOT AUTO-SEND]
+Reason for Escalation: Legal/Regulatory escalation trigger ('sue') | Category escalation trigger ('fraud') | Severe frustration on high-priority category
+
+Hello,
+Thank you for reaching out to PocketToons Support. Your request has been escalated to a senior support specialist for priority review. A team member will inspect your account details and follow up with you within 2-4 hours.
+
+Best regards,
+PocketToons Tier 2 Escalations Team",Billing & Refunds,,,,
+TCK-1162,Crash when opening 'My Library' tab,"Ever since updating to v3.10.4, the PocketToons app crashes immediately to the home screen upon launch. I cleared cache and reinstalled but issue persists on Pixel 8 (Android 14).",Technical & Playback Bugs,App Crash,0.78,Severe/Frustrated,True,Legal/Regulatory escalation trigger ('sue'),"[HUMAN AGENT DRAFT ONLY - DO NOT AUTO-SEND]
+Reason for Escalation: Legal/Regulatory escalation trigger ('sue')
+
+Hello,
+Thank you for reaching out to PocketToons Support. Your request has been escalated to a senior support specialist for priority review. A team member will inspect your account details and follow up with you within 2-4 hours.
+
+Best regards,
+PocketToons Tier 2 Escalations Team",Technical & Playback Bugs,,,,
+TCK-1199,Sleep timer option request,Please add a folder or playlist feature in 'My Library' to organize finished vs. ongoing shows.,Feedback & General,Content Catalog Request,0.38,Neutral,True,Low classifier confidence (0.38 < 0.60),"[HUMAN AGENT DRAFT ONLY - DO NOT AUTO-SEND]
+Reason for Escalation: Low classifier confidence (0.38 < 0.60)
+
+Hello,
+Thank you for reaching out to PocketToons Support. Your request has been escalated to a senior support specialist for priority review. A team member will inspect your account details and follow up with you within 2-4 hours.
+
+Best regards,
+PocketToons Tier 2 Escalations Team",Feedback & General,,,,
+TCK-1179,Request to delete my account and personal data,I want to close my account permanently. How do I delete my profile data?,Account & Security,Account Deletion Request,0.81,Neutral,True,Regulatory compliance / Data deletion request | Category 'Account & Security' requires human agent review | Category escalation trigger ('delete my account'),"[HUMAN AGENT DRAFT ONLY - DO NOT AUTO-SEND]
+Reason for Escalation: Regulatory compliance / Data deletion request | Category 'Account & Security' requires human agent review | Category escalation trigger ('delete my account')
+
+Hello,
+Thank you for reaching out to PocketToons Support. Your request has been escalated to a senior support specialist for priority review. A team member will inspect your account details and follow up with you within 2-4 hours.
+
+Best regards,
+PocketToons Tier 2 Escalations Team",Account & Security,,,,
+TCK-1102,Purchased 1000 coins but balance is still 0,"I purchased the $14.99 coin pack 30 minutes ago via Apple Pay. Money was deducted from my account (Order #ORD-532067), but my in-app coin wallet still shows 0. Please credit my coins!",Content Access & Coins,Coins Not Credited,0.87,Neutral,False,,"Hello,
+
+Thank you for bringing this to our attention! We apologize for the delay in crediting your purchased coins.
+
+To immediately sync your coin wallet, please try the following steps:
+1. Force-close the PocketToons app and re-open it.
+2. Go to Profile > Account Settings and tap 'Sync Wallet Balance'.
+
+Our system has also triggered a manual sync for your recent order. Your coin balance should reflect within 5-10 minutes. If your balance does not update, please send us your Store Receipt Number and we will manually credit your account.
+
+Best regards,
+PocketToons Content Team",Content Access & Coins,,,,
+TCK-1174,Urgently help - someone hacked my account!,I can no longer log into my account with my email. It says 'User does not exist'. I think my account was hacked and email was changed without my permission.,Account & Security,Suspicious Activity / Hacked Account,0.78,Severe/Frustrated,True,Account security / compromise alert | Category 'Account & Security' requires human agent review | Category escalation trigger ('hacked') | Severe frustration on high-priority category,"[HUMAN AGENT DRAFT ONLY - DO NOT AUTO-SEND]
+Reason for Escalation: Account security / compromise alert | Category 'Account & Security' requires human agent review | Category escalation trigger ('hacked') | Severe frustration on high-priority category
+
+Hello,
+Thank you for reaching out to PocketToons Support. Your request has been escalated to a senior support specialist for priority review. A team member will inspect your account details and follow up with you within 2-4 hours.
+
+Best regards,
+PocketToons Tier 2 Escalations Team",Account & Security,,,,
+TCK-1036,Refund for unlistened audiobook season,I accidentally bought the wrong coin tier ($19.99 instead of $4.99). I haven't spent any of the coins. Please refund Order #ORD-854717 so I can buy the correct one.,Content Access & Coins,Coins Not Credited,0.78,Negative,False,,"Hello,
+
+Thank you for bringing this to our attention! We apologize for the delay in crediting your purchased coins.
+
+To immediately sync your coin wallet, please try the following steps:
+1. Force-close the PocketToons app and re-open it.
+2. Go to Profile > Account Settings and tap 'Sync Wallet Balance'.
+
+Our system has also triggered a manual sync for your recent order. Your coin balance should reflect within 5-10 minutes. If your balance does not update, please send us your Store Receipt Number and we will manually credit your account.
+
+Best regards,
+PocketToons Content Team",Billing & Refunds,,,,
+TCK-1058,Fraudulent charge from PocketToons,I am contacting my bank and attorney if this $50 unauthorized renewal is not refunded immediately. Order ID ORD-831059.,Billing & Refunds,Unauthorized Charge,0.95,Severe/Frustrated,True,Legal/Regulatory escalation trigger ('attorney') | Category escalation trigger ('attorney') | Category escalation trigger ('fraud') | Severe frustration on high-priority category,"[HUMAN AGENT DRAFT ONLY - DO NOT AUTO-SEND]
+Reason for Escalation: Legal/Regulatory escalation trigger ('attorney') | Category escalation trigger ('attorney') | Category escalation trigger ('fraud') | Severe frustration on high-priority category
+
+Hello,
+Thank you for reaching out to PocketToons Support. Your request has been escalated to a senior support specialist for priority review. A team member will inspect your account details and follow up with you within 2-4 hours.
+
+Best regards,
+PocketToons Tier 2 Escalations Team",Billing & Refunds,,,,
+TCK-1097,Purchased annual VIP pass but still seeing ads and paywalls,"I paid for the Annual VIP Pass last month. Today after updating to v3.12.1, my account reverted to Free Tier and asks me to buy coins again. I pressed 'Restore Purchases' but nothing happened.",Content Access & Coins,Coins Not Credited,0.87,Neutral,False,,"Hello,
+
+Thank you for bringing this to our attention! We apologize for the delay in crediting your purchased coins.
+
+To immediately sync your coin wallet, please try the following steps:
+1. Force-close the PocketToons app and re-open it.
+2. Go to Profile > Account Settings and tap 'Sync Wallet Balance'.
+
+Our system has also triggered a manual sync for your recent order. Your coin balance should reflect within 5-10 minutes. If your balance does not update, please send us your Store Receipt Number and we will manually credit your account.
+
+Best regards,
+PocketToons Content Team",Content Access & Coins,,,,
+TCK-1123,Purchased 1000 coins but balance is still 0,"Hey support, I bought 500 coins for $9.99. Receipt #ORD-475644 received, but coins haven't shown up after restarting the app. User ID: USR-46048.",Content Access & Coins,Coins Not Credited,0.78,Neutral,False,,"Hello,
+
+Thank you for bringing this to our attention! We apologize for the delay in crediting your purchased coins.
+
+To immediately sync your coin wallet, please try the following steps:
+1. Force-close the PocketToons app and re-open it.
+2. Go to Profile > Account Settings and tap 'Sync Wallet Balance'.
+
+Our system has also triggered a manual sync for your recent order. Your coin balance should reflect within 5-10 minutes. If your balance does not update, please send us your Store Receipt Number and we will manually credit your account.
+
+Best regards,
+PocketToons Content Team",Content Access & Coins,,,,
+TCK-1010,Double billing issue on order ORD-790993,"Hello team, I was charged twice for the monthly VIP pass ($14.99 x 2). I only pressed subscribe once. Please reverse the duplicate payment immediately.",Billing & Refunds,Double Billing,0.78,Severe/Frustrated,True,Legal/Regulatory escalation trigger ('sue') | Severe frustration on high-priority category,"[HUMAN AGENT DRAFT ONLY - DO NOT AUTO-SEND]
+Reason for Escalation: Legal/Regulatory escalation trigger ('sue') | Severe frustration on high-priority category
+
+Hello,
+Thank you for reaching out to PocketToons Support. Your request has been escalated to a senior support specialist for priority review. A team member will inspect your account details and follow up with you within 2-4 hours.
+
+Best regards,
+PocketToons Tier 2 Escalations Team",Billing & Refunds,,,,
+TCK-1086,Episode unlock error on 'CEO's Hidden Heiress',Coins were deducted twice for unlocking the same episode! Check my transaction history.,Content Access & Coins,Episode Locked After Unlock,0.78,Negative,False,,"Hello,
+
+We apologize for the glitch with your unlocked episode!
+
+We have refreshed your content access tokens on our server for your account. Please force-close the app, reopen the show page, and tap 'Restore Unlocked Episodes'. You should now be able to play all unlocked episodes smoothly without any extra coin deductions.
+
+Happy listening!
+PocketToons Support Team",Content Access & Coins,,,,
+TCK-1153,Audio speeds up and sounds robot-like,The audio player pitch is distorted and plays at 2x speed automatically even when 1x is selected. Please fix this player bug.,Technical & Playback Bugs,Audio Stutter / Buffering,0.78,Negative,False,,"Hello,
+
+Thank you for reporting this playback issue to PocketToons Engineering.
+
+We recommend attempting the following troubleshooting steps:
+1. Ensure your app is updated to the latest version in App Store / Play Store.
+2. Go to Settings > Storage & Cache > Clear Cache.
+3. Toggle Airplane Mode ON for 5 seconds and back OFF.
+
+Our tech team has logged your device details for further diagnostics.
+
+Best regards,
+PocketToons Tech Support",Technical & Playback Bugs,,,,
+TCK-1109,Episode 25 locked despite using 10 coins,Unlocked Episodes 10 to 15 in bulk for 50 coins. Episodes 12 and 13 are still showing a padlock icon. Please restore my unlocked episodes.,Content Access & Coins,Episode Locked After Unlock,0.95,Negative,False,,"Hello,
+
+We apologize for the glitch with your unlocked episode!
+
+We have refreshed your content access tokens on our server for your account. Please force-close the app, reopen the show page, and tap 'Restore Unlocked Episodes'. You should now be able to play all unlocked episodes smoothly without any extra coin deductions.
+
+Happy listening!
+PocketToons Support Team",Content Access & Coins,,,,
+TCK-1090,VIP status lost after app update,Paid $49.99 for yearly VIP membership. Order #ORD-197736. Still showing lock icons on exclusive episodes.,Content Access & Coins,Episode Locked After Unlock,0.56,Neutral,True,Low classifier confidence (0.56 < 0.60),"[HUMAN AGENT DRAFT ONLY - DO NOT AUTO-SEND]
+Reason for Escalation: Low classifier confidence (0.56 < 0.60)
+
+Hello,
+Thank you for reaching out to PocketToons Support. Your request has been escalated to a senior support specialist for priority review. A team member will inspect your account details and follow up with you within 2-4 hours.
+
+Best regards,
+PocketToons Tier 2 Escalations Team",Content Access & Coins,,,,
+TCK-1076,Coins deducted but episode won't play,"I spent 15 coins to unlock Episode 45 of 'Shadow Monarch', my coins were deducted, but when I click play it asks me to spend another 15 coins! Please fix this lock state.",Content Access & Coins,Coins Not Credited,0.78,Neutral,False,,"Hello,
+
+Thank you for bringing this to our attention! We apologize for the delay in crediting your purchased coins.
+
+To immediately sync your coin wallet, please try the following steps:
+1. Force-close the PocketToons app and re-open it.
+2. Go to Profile > Account Settings and tap 'Sync Wallet Balance'.
+
+Our system has also triggered a manual sync for your recent order. Your coin balance should reflect within 5-10 minutes. If your balance does not update, please send us your Store Receipt Number and we will manually credit your account.
+
+Best regards,
+PocketToons Content Team",Content Access & Coins,,,,
+TCK-1006,Charged after cancelling VIP membership,"I tried cancelling my $9.99 monthly pass in settings last week, but I was still billed today. Please verify my cancellation and refund this month's charge.",Billing & Refunds,Unauthorized Charge,0.95,Negative,False,,"Hello,
+
+Thank you for reaching out to PocketToons Billing Support.
+
+We have received your billing query. Our billing team is reviewing your transaction logs. If any discrepancies or unauthorized charges are identified, rest assured they will be immediately adjusted or refunded.
+
+Thank you for your patience,
+PocketToons Support Team",Billing & Refunds,,,,
+TCK-1175,Permanently close my PocketToons account,Please delete my account and purge my email address and payment history from your database.,Account & Security,Suspicious Activity / Hacked Account,0.74,Neutral,True,Regulatory compliance / Data deletion request | Category 'Account & Security' requires human agent review | Category escalation trigger ('delete my account'),"[HUMAN AGENT DRAFT ONLY - DO NOT AUTO-SEND]
+Reason for Escalation: Regulatory compliance / Data deletion request | Category 'Account & Security' requires human agent review | Category escalation trigger ('delete my account')
+
+Hello,
+Thank you for reaching out to PocketToons Support. Your request has been escalated to a senior support specialist for priority review. A team member will inspect your account details and follow up with you within 2-4 hours.
+
+Best regards,
+PocketToons Tier 2 Escalations Team",Account & Security,,,,
+TCK-1052,Fraudulent charge from PocketToons,I noticed a charge of $49.99 from PocketToons on my credit card today. I cancelled my subscription last month! This is an unauthorized charge. Refund me now or I will file a bank chargeback.,Billing & Refunds,Unauthorized Charge,0.95,Severe/Frustrated,True,Category escalation trigger ('chargeback') | Category escalation trigger ('fraud') | Severe frustration on high-priority category,"[HUMAN AGENT DRAFT ONLY - DO NOT AUTO-SEND]
+Reason for Escalation: Category escalation trigger ('chargeback') | Category escalation trigger ('fraud') | Severe frustration on high-priority category
+
+Hello,
+Thank you for reaching out to PocketToons Support. Your request has been escalated to a senior support specialist for priority review. A team member will inspect your account details and follow up with you within 2-4 hours.
+
+Best regards,
+PocketToons Tier 2 Escalations Team",Billing & Refunds,,,,
+TCK-1047,I did not authorize this purchase,My credit card was charged $19.99 for coins I never purchased. I haven't opened the app in weeks. Please investigate this fraudulent charge and issue a full refund.,Billing & Refunds,Unauthorized Charge,0.95,Severe/Frustrated,True,Legal/Regulatory escalation trigger ('sue') | Category escalation trigger ('fraud') | Severe frustration on high-priority category,"[HUMAN AGENT DRAFT ONLY - DO NOT AUTO-SEND]
+Reason for Escalation: Legal/Regulatory escalation trigger ('sue') | Category escalation trigger ('fraud') | Severe frustration on high-priority category
+
+Hello,
+Thank you for reaching out to PocketToons Support. Your request has been escalated to a senior support specialist for priority review. A team member will inspect your account details and follow up with you within 2-4 hours.
+
+Best regards,
+PocketToons Tier 2 Escalations Team",Billing & Refunds,,,,
+TCK-1138,Audio speeds up and sounds robot-like,The audio player pitch is distorted and plays at 2x speed automatically even when 1x is selected. Please fix this player bug.,Technical & Playback Bugs,Audio Stutter / Buffering,0.78,Negative,False,,"Hello,
+
+Thank you for reporting this playback issue to PocketToons Engineering.
+
+We recommend attempting the following troubleshooting steps:
+1. Ensure your app is updated to the latest version in App Store / Play Store.
+2. Go to Settings > Storage & Cache > Clear Cache.
+3. Toggle Airplane Mode ON for 5 seconds and back OFF.
+
+Our tech team has logged your device details for further diagnostics.
+
+Best regards,
+PocketToons Tech Support",Technical & Playback Bugs,,,,
+TCK-1018,Charged twice for 500 Coin Pack,"Hello team, I was charged twice for the monthly VIP pass ($14.99 x 2). I only pressed subscribe once. Please reverse the duplicate payment immediately.",Billing & Refunds,Unauthorized Charge,0.87,Neutral,False,,"Hello,
+
+Thank you for reaching out to PocketToons Billing Support.
+
+We have received your billing query. Our billing team is reviewing your transaction logs. If any discrepancies or unauthorized charges are identified, rest assured they will be immediately adjusted or refunded.
+
+Thank you for your patience,
+PocketToons Support Team",Billing & Refunds,,,,
+TCK-1056,Unrecognized charge of $49.99 on my statement,I noticed a charge of $49.99 from PocketToons on my credit card today. I cancelled my subscription last month! This is an unauthorized charge. Refund me now or I will file a bank chargeback.,Billing & Refunds,Unauthorized Charge,0.95,Severe/Frustrated,True,Category escalation trigger ('chargeback') | Severe frustration on high-priority category,"[HUMAN AGENT DRAFT ONLY - DO NOT AUTO-SEND]
+Reason for Escalation: Category escalation trigger ('chargeback') | Severe frustration on high-priority category
+
+Hello,
+Thank you for reaching out to PocketToons Support. Your request has been escalated to a senior support specialist for priority review. A team member will inspect your account details and follow up with you within 2-4 hours.
+
+Best regards,
+PocketToons Tier 2 Escalations Team",Billing & Refunds,,,,
+TCK-1014,How to stop recurring billing?,"I tried cancelling my $9.99 monthly pass in settings last week, but I was still billed today. Please verify my cancellation and refund this month's charge.",Billing & Refunds,Unauthorized Charge,0.87,Negative,False,,"Hello,
+
+Thank you for reaching out to PocketToons Billing Support.
+
+We have received your billing query. Our billing team is reviewing your transaction logs. If any discrepancies or unauthorized charges are identified, rest assured they will be immediately adjusted or refunded.
+
+Thank you for your patience,
+PocketToons Support Team",Billing & Refunds,,,,
+TCK-1002,Unauthorized auto-renewal after cancellation,My credit card was charged $19.99 for coins I never purchased. I haven't opened the app in weeks. Please investigate this fraudulent charge and issue a full refund.,Billing & Refunds,Unauthorized Charge,0.95,Severe/Frustrated,True,Legal/Regulatory escalation trigger ('sue') | Category escalation trigger ('fraud') | Severe frustration on high-priority category,"[HUMAN AGENT DRAFT ONLY - DO NOT AUTO-SEND]
+Reason for Escalation: Legal/Regulatory escalation trigger ('sue') | Category escalation trigger ('fraud') | Severe frustration on high-priority category
+
+Hello,
+Thank you for reaching out to PocketToons Support. Your request has been escalated to a senior support specialist for priority review. A team member will inspect your account details and follow up with you within 2-4 hours.
+
+Best regards,
+PocketToons Tier 2 Escalations Team",Billing & Refunds,,,,
+TCK-1130,Episode unlock error on 'CEO's Hidden Heiress',Unlocked Episodes 10 to 15 in bulk for 50 coins. Episodes 12 and 13 are still showing a padlock icon. Please restore my unlocked episodes.,Content Access & Coins,Episode Locked After Unlock,0.95,Negative,False,,"Hello,
+
+We apologize for the glitch with your unlocked episode!
+
+We have refreshed your content access tokens on our server for your account. Please force-close the app, reopen the show page, and tap 'Restore Unlocked Episodes'. You should now be able to play all unlocked episodes smoothly without any extra coin deductions.
+
+Happy listening!
+PocketToons Support Team",Content Access & Coins,,,,
+TCK-1177,Account compromised / Security breach,"I received an email alert about a login from an IP address in Europe. I live in US. Someone logged into my account, changed my nickname, and spent 800 of my saved coins! Please lock my account and restore my coins immediately!",Account & Security,Cannot Login / OTP Fail,0.83,Neutral,True,Account security / compromise alert | Category 'Account & Security' requires human agent review,"[HUMAN AGENT DRAFT ONLY - DO NOT AUTO-SEND]
+Reason for Escalation: Account security / compromise alert | Category 'Account & Security' requires human agent review
+
+Hello,
+Thank you for reaching out to PocketToons Support. Your request has been escalated to a senior support specialist for priority review. A team member will inspect your account details and follow up with you within 2-4 hours.
+
+Best regards,
+PocketToons Tier 2 Escalations Team",Account & Security,,,,
+TCK-1061,Refund for unlistened audiobook season,I accidentally bought the wrong coin tier ($19.99 instead of $4.99). I haven't spent any of the coins. Please refund Order #ORD-912270 so I can buy the correct one.,Content Access & Coins,Coins Not Credited,0.78,Negative,False,,"Hello,
+
+Thank you for bringing this to our attention! We apologize for the delay in crediting your purchased coins.
+
+To immediately sync your coin wallet, please try the following steps:
+1. Force-close the PocketToons app and re-open it.
+2. Go to Profile > Account Settings and tap 'Sync Wallet Balance'.
+
+Our system has also triggered a manual sync for your recent order. Your coin balance should reflect within 5-10 minutes. If your balance does not update, please send us your Store Receipt Number and we will manually credit your account.
+
+Best regards,
+PocketToons Content Team",Billing & Refunds,,,,
+TCK-1084,VIP membership inactive on my account,"My VIP membership is active on iOS but when I log into iPad, it says I don't have VIP. Please sync my account privileges.",Account & Security,Suspicious Activity / Hacked Account,0.46,Neutral,True,Low classifier confidence (0.46 < 0.60) | Category 'Account & Security' requires human agent review,"[HUMAN AGENT DRAFT ONLY - DO NOT AUTO-SEND]
+Reason for Escalation: Low classifier confidence (0.46 < 0.60) | Category 'Account & Security' requires human agent review
+
+Hello,
+Thank you for reaching out to PocketToons Support. Your request has been escalated to a senior support specialist for priority review. A team member will inspect your account details and follow up with you within 2-4 hours.
+
+Best regards,
+PocketToons Tier 2 Escalations Team",Content Access & Coins,,,,
+TCK-1154,Downloaded episodes won't play offline,Downloads get stuck at 99% and fail with code ERR_STORAGE_WRITE. Device has over 30GB free storage available.,Content Access & Coins,Episode Locked After Unlock,0.29,Negative,True,Low classifier confidence (0.29 < 0.60),"[HUMAN AGENT DRAFT ONLY - DO NOT AUTO-SEND]
+Reason for Escalation: Low classifier confidence (0.29 < 0.60)
+
+Hello,
+Thank you for reaching out to PocketToons Support. Your request has been escalated to a senior support specialist for priority review. A team member will inspect your account details and follow up with you within 2-4 hours.
+
+Best regards,
+PocketToons Tier 2 Escalations Team",Technical & Playback Bugs,,,,
+TCK-1101,Payment went through but no coins received (Order #ORD-440131),"Hey support, I bought 500 coins for $9.99. Receipt #ORD-440131 received, but coins haven't shown up after restarting the app. User ID: USR-87397.",Content Access & Coins,Coins Not Credited,0.78,Neutral,False,,"Hello,
+
+Thank you for bringing this to our attention! We apologize for the delay in crediting your purchased coins.
+
+To immediately sync your coin wallet, please try the following steps:
+1. Force-close the PocketToons app and re-open it.
+2. Go to Profile > Account Settings and tap 'Sync Wallet Balance'.
+
+Our system has also triggered a manual sync for your recent order. Your coin balance should reflect within 5-10 minutes. If your balance does not update, please send us your Store Receipt Number and we will manually credit your account.
+
+Best regards,
+PocketToons Content Team",Content Access & Coins,,,,
+TCK-1143,Crash when opening 'My Library' tab,The app freezes completely and screen turns black whenever I open my downloaded shows tab. Needs urgent bug fix.,Technical & Playback Bugs,App Crash,0.95,Negative,False,,"Hello,
+
+Thank you for reporting this playback issue to PocketToons Engineering.
+
+We recommend attempting the following troubleshooting steps:
+1. Ensure your app is updated to the latest version in App Store / Play Store.
+2. Go to Settings > Storage & Cache > Clear Cache.
+3. Toggle Airplane Mode ON for 5 seconds and back OFF.
+
+Our tech team has logged your device details for further diagnostics.
+
+Best regards,
+PocketToons Tech Support",Technical & Playback Bugs,,,,
+TCK-1091,Episode unlock error on 'CEO's Hidden Heiress',Unlocked Episodes 10 to 15 in bulk for 50 coins. Episodes 12 and 13 are still showing a padlock icon. Please restore my unlocked episodes.,Content Access & Coins,Episode Locked After Unlock,0.95,Negative,False,,"Hello,
+
+We apologize for the glitch with your unlocked episode!
+
+We have refreshed your content access tokens on our server for your account. Please force-close the app, reopen the show page, and tap 'Restore Unlocked Episodes'. You should now be able to play all unlocked episodes smoothly without any extra coin deductions.
+
+Happy listening!
+PocketToons Support Team",Content Access & Coins,,,,
+TCK-1125,VIP membership inactive on my account,"My VIP membership is active on iOS but when I log into iPad, it says I don't have VIP. Please sync my account privileges.",Account & Security,Suspicious Activity / Hacked Account,0.46,Neutral,True,Low classifier confidence (0.46 < 0.60) | Category 'Account & Security' requires human agent review,"[HUMAN AGENT DRAFT ONLY - DO NOT AUTO-SEND]
+Reason for Escalation: Low classifier confidence (0.46 < 0.60) | Category 'Account & Security' requires human agent review
+
+Hello,
+Thank you for reaching out to PocketToons Support. Your request has been escalated to a senior support specialist for priority review. A team member will inspect your account details and follow up with you within 2-4 hours.
+
+Best regards,
+PocketToons Tier 2 Escalations Team",Content Access & Coins,,,,
+TCK-1046,Charged twice for 500 Coin Pack,"Hi, I bought the $9.99 coin bundle yesterday on my iPhone. My bank statement shows two pending charges of $9.99 on the same minute! Transaction ID: ORD-345884. Please refund the extra $9.99.",Billing & Refunds,Unauthorized Charge,0.95,Severe/Frustrated,True,Severe frustration on high-priority category,"[HUMAN AGENT DRAFT ONLY - DO NOT AUTO-SEND]
+Reason for Escalation: Severe frustration on high-priority category
+
+Hello,
+Thank you for reaching out to PocketToons Support. Your request has been escalated to a senior support specialist for priority review. A team member will inspect your account details and follow up with you within 2-4 hours.
+
+Best regards,
+PocketToons Tier 2 Escalations Team",Billing & Refunds,,,,
+TCK-1194,Feedback on narrator for 'Vampire Prince',Just wanted to say the narration team for 'Alpha King' is phenomenal! Amazing sound effects and performance.,Feedback & General,Narrator Voice Feedback,0.66,Positive,False,,"Hello,
+
+Thank you so much for taking the time to share your feedback with PocketToons!
+
+We love hearing from our listeners. Your suggestions have been shared directly with our Product and Content teams as we work on upcoming app updates and show releases.
+
+Thanks for being a valued part of our community!
+
+Warmly,
+PocketToons Product Team",Feedback & General,,,,
+TCK-1135,App crashes immediately on launch,Crash report: app crashes every time I try to play Episode 10 of any series.,Technical & Playback Bugs,App Crash,0.78,Neutral,False,,"Hello,
+
+Thank you for reporting this playback issue to PocketToons Engineering.
+
+We recommend attempting the following troubleshooting steps:
+1. Ensure your app is updated to the latest version in App Store / Play Store.
+2. Go to Settings > Storage & Cache > Clear Cache.
+3. Toggle Airplane Mode ON for 5 seconds and back OFF.
+
+Our tech team has logged your device details for further diagnostics.
+
+Best regards,
+PocketToons Tech Support",Technical & Playback Bugs,,,,
+TCK-1031,Fraudulent charge from PocketToons,My credit card was charged $19.99 for coins I never purchased. I haven't opened the app in weeks. Please investigate this fraudulent charge and issue a full refund.,Billing & Refunds,Unauthorized Charge,0.95,Severe/Frustrated,True,Legal/Regulatory escalation trigger ('sue') | Category escalation trigger ('fraud') | Severe frustration on high-priority category,"[HUMAN AGENT DRAFT ONLY - DO NOT AUTO-SEND]
+Reason for Escalation: Legal/Regulatory escalation trigger ('sue') | Category escalation trigger ('fraud') | Severe frustration on high-priority category
+
+Hello,
+Thank you for reaching out to PocketToons Support. Your request has been escalated to a senior support specialist for priority review. A team member will inspect your account details and follow up with you within 2-4 hours.
+
+Best regards,
+PocketToons Tier 2 Escalations Team",Billing & Refunds,,,,
+TCK-1059,Requesting refund for Order #ORD-630538,I accidentally bought the wrong coin tier ($19.99 instead of $4.99). I haven't spent any of the coins. Please refund Order #ORD-630538 so I can buy the correct one.,Content Access & Coins,Coins Not Credited,0.78,Negative,False,,"Hello,
+
+Thank you for bringing this to our attention! We apologize for the delay in crediting your purchased coins.
+
+To immediately sync your coin wallet, please try the following steps:
+1. Force-close the PocketToons app and re-open it.
+2. Go to Profile > Account Settings and tap 'Sync Wallet Balance'.
+
+Our system has also triggered a manual sync for your recent order. Your coin balance should reflect within 5-10 minutes. If your balance does not update, please send us your Store Receipt Number and we will manually credit your account.
+
+Best regards,
+PocketToons Content Team",Billing & Refunds,,,,
+TCK-1196,Great voice actor choice!,The new voice actor for Season 2 of 'Reborn Legend' sounds very monotone compared to Season 1. Please consider bringing back the original voice cast!,Feedback & General,Narrator Voice Feedback,0.78,Positive,False,,"Hello,
+
+Thank you so much for taking the time to share your feedback with PocketToons!
+
+We love hearing from our listeners. Your suggestions have been shared directly with our Product and Content teams as we work on upcoming app updates and show releases.
+
+Thanks for being a valued part of our community!
+
+Warmly,
+PocketToons Product Team",Feedback & General,,,,
+TCK-1195,Feature request: Playback speed control 2.5x,"Great app! It would be amazing if you could add a Sleep Timer feature (15m, 30m, end of episode) so I can listen to audiobooks before sleeping without wasting battery.",Feedback & General,App UI / UX Suggestion,0.78,Positive,False,,"Hello,
+
+Thank you so much for taking the time to share your feedback with PocketToons!
+
+We love hearing from our listeners. Your suggestions have been shared directly with our Product and Content teams as we work on upcoming app updates and show releases.
+
+Thanks for being a valued part of our community!
+
+Warmly,
+PocketToons Product Team",Feedback & General,,,,
+TCK-1170,SMS verification failed for phone number,"I'm trying to log in using my phone number, but the 6-digit OTP SMS code is never delivered to my phone. I tried 5 times. Please help me log in.",Account & Security,Cannot Login / OTP Fail,0.78,Negative,True,Category 'Account & Security' requires human agent review,"[HUMAN AGENT DRAFT ONLY - DO NOT AUTO-SEND]
+Reason for Escalation: Category 'Account & Security' requires human agent review
+
+Hello,
+Thank you for reaching out to PocketToons Support. Your request has been escalated to a senior support specialist for priority review. A team member will inspect your account details and follow up with you within 2-4 hours.
+
+Best regards,
+PocketToons Tier 2 Escalations Team",Account & Security,,,,
+TCK-1003,App Store charged me two times for VIP monthly pass,"Hi, I bought the $9.99 coin bundle yesterday on my iPhone. My bank statement shows two pending charges of $9.99 on the same minute! Transaction ID: ORD-612340. Please refund the extra $9.99.",Billing & Refunds,Unauthorized Charge,0.95,Severe/Frustrated,True,Severe frustration on high-priority category,"[HUMAN AGENT DRAFT ONLY - DO NOT AUTO-SEND]
+Reason for Escalation: Severe frustration on high-priority category
+
+Hello,
+Thank you for reaching out to PocketToons Support. Your request has been escalated to a senior support specialist for priority review. A team member will inspect your account details and follow up with you within 2-4 hours.
+
+Best regards,
+PocketToons Tier 2 Escalations Team",Billing & Refunds,,,,
+TCK-1139,Downloaded episodes won't play offline,Downloads get stuck at 99% and fail with code ERR_STORAGE_WRITE. Device has over 30GB free storage available.,Content Access & Coins,Episode Locked After Unlock,0.29,Negative,True,Low classifier confidence (0.29 < 0.60),"[HUMAN AGENT DRAFT ONLY - DO NOT AUTO-SEND]
+Reason for Escalation: Low classifier confidence (0.29 < 0.60)
+
+Hello,
+Thank you for reaching out to PocketToons Support. Your request has been escalated to a senior support specialist for priority review. A team member will inspect your account details and follow up with you within 2-4 hours.
+
+Best regards,
+PocketToons Tier 2 Escalations Team",Technical & Playback Bugs,,,,
+TCK-1180,Remove my personal info from your servers,"Under GDPR / CCPA regulations, I hereby request the permanent deletion of my PocketToons account (User ID: USR-57447) and all associated personal data from your systems.",Account & Security,Account Deletion Request,0.78,Neutral,True,Regulatory compliance / Data deletion request | Category 'Account & Security' requires human agent review | Category escalation trigger ('gdpr'),"[HUMAN AGENT DRAFT ONLY - DO NOT AUTO-SEND]
+Reason for Escalation: Regulatory compliance / Data deletion request | Category 'Account & Security' requires human agent review | Category escalation trigger ('gdpr')
+
+Hello,
+Thank you for reaching out to PocketToons Support. Your request has been escalated to a senior support specialist for priority review. A team member will inspect your account details and follow up with you within 2-4 hours.
+
+Best regards,
+PocketToons Tier 2 Escalations Team",Account & Security,,,,
+TCK-1106,Paid coins to unlock show but it asks for coins again,"I spent 15 coins to unlock Episode 45 of 'Shadow Monarch', my coins were deducted, but when I click play it asks me to spend another 15 coins! Please fix this lock state.",Content Access & Coins,Coins Not Credited,0.78,Neutral,False,,"Hello,
+
+Thank you for bringing this to our attention! We apologize for the delay in crediting your purchased coins.
+
+To immediately sync your coin wallet, please try the following steps:
+1. Force-close the PocketToons app and re-open it.
+2. Go to Profile > Account Settings and tap 'Sync Wallet Balance'.
+
+Our system has also triggered a manual sync for your recent order. Your coin balance should reflect within 5-10 minutes. If your balance does not update, please send us your Store Receipt Number and we will manually credit your account.
+
+Best regards,
+PocketToons Content Team",Content Access & Coins,,,,
+TCK-1060,Charged after cancelling VIP membership,Please cancel my subscription immediately and send confirmation to my email. I do not want auto-renew enabled.,Billing & Refunds,Unauthorized Charge,0.95,Negative,False,,"Hello,
+
+Thank you for reaching out to PocketToons Billing Support.
+
+We have received your billing query. Our billing team is reviewing your transaction logs. If any discrepancies or unauthorized charges are identified, rest assured they will be immediately adjusted or refunded.
+
+Thank you for your patience,
+PocketToons Support Team",Billing & Refunds,,,,
+TCK-1066,Refund for unlistened audiobook season,I accidentally bought the wrong coin tier ($19.99 instead of $4.99). I haven't spent any of the coins. Please refund Order #ORD-524045 so I can buy the correct one.,Content Access & Coins,Coins Not Credited,0.78,Negative,False,,"Hello,
+
+Thank you for bringing this to our attention! We apologize for the delay in crediting your purchased coins.
+
+To immediately sync your coin wallet, please try the following steps:
+1. Force-close the PocketToons app and re-open it.
+2. Go to Profile > Account Settings and tap 'Sync Wallet Balance'.
+
+Our system has also triggered a manual sync for your recent order. Your coin balance should reflect within 5-10 minutes. If your balance does not update, please send us your Store Receipt Number and we will manually credit your account.
+
+Best regards,
+PocketToons Content Team",Billing & Refunds,,,,
+TCK-1190,Audio volume balance between voice and background music,Just wanted to say the narration team for 'Alpha King' is phenomenal! Amazing sound effects and performance.,Feedback & General,Narrator Voice Feedback,0.28,Positive,True,Low classifier confidence (0.28 < 0.60),"[HUMAN AGENT DRAFT ONLY - DO NOT AUTO-SEND]
+Reason for Escalation: Low classifier confidence (0.28 < 0.60)
+
+Hello,
+Thank you for reaching out to PocketToons Support. Your request has been escalated to a senior support specialist for priority review. A team member will inspect your account details and follow up with you within 2-4 hours.
+
+Best regards,
+PocketToons Tier 2 Escalations Team",Feedback & General,,,,
+TCK-1115,VIP status lost after app update,"I paid for the Annual VIP Pass last month. Today after updating to v3.12.0, my account reverted to Free Tier and asks me to buy coins again. I pressed 'Restore Purchases' but nothing happened.",Content Access & Coins,Coins Not Credited,0.87,Neutral,False,,"Hello,
+
+Thank you for bringing this to our attention! We apologize for the delay in crediting your purchased coins.
+
+To immediately sync your coin wallet, please try the following steps:
+1. Force-close the PocketToons app and re-open it.
+2. Go to Profile > Account Settings and tap 'Sync Wallet Balance'.
+
+Our system has also triggered a manual sync for your recent order. Your coin balance should reflect within 5-10 minutes. If your balance does not update, please send us your Store Receipt Number and we will manually credit your account.
+
+Best regards,
+PocketToons Content Team",Content Access & Coins,,,,
+TCK-1098,Paid coins to unlock show but it asks for coins again,Coins were deducted twice for unlocking the same episode! Check my transaction history.,Content Access & Coins,Episode Locked After Unlock,0.78,Neutral,False,,"Hello,
+
+We apologize for the glitch with your unlocked episode!
+
+We have refreshed your content access tokens on our server for your account. Please force-close the app, reopen the show page, and tap 'Restore Unlocked Episodes'. You should now be able to play all unlocked episodes smoothly without any extra coin deductions.
+
+Happy listening!
+PocketToons Support Team",Content Access & Coins,,,,
+TCK-1025,Subscription cancellation button not working,"I tried cancelling my $9.99 monthly pass in settings last week, but I was still billed today. Please verify my cancellation and refund this month's charge.",Billing & Refunds,Subscription Cancellation Issue,0.95,Negative,False,,"Hello,
+
+Thanks for reaching out to PocketToons. We're sorry to see you go!
+
+We have verified your account and stopped any future recurring auto-renewals for your subscription. You will continue to have full access to your VIP privileges until the end of your current billing cycle.
+
+You can also manage your subscriptions directly via your device settings:
+• iOS: Settings > Apple ID > Subscriptions > PocketToons
+• Android: Play Store > Profile > Payments & subscriptions > Subscriptions
+
+Let us know if you need anything else!
+
+Warm regards,
+PocketToons Customer Care",Billing & Refunds,,,,
+TCK-1150,Buffering error on episode playback,Audio cuts out when my phone screen turns off. Background playback is broken on app version v3.12.1.,Technical & Playback Bugs,Audio Stutter / Buffering,0.85,Negative,False,,"Hello,
+
+Thank you for reporting this playback issue to PocketToons Engineering.
+
+We recommend attempting the following troubleshooting steps:
+1. Ensure your app is updated to the latest version in App Store / Play Store.
+2. Go to Settings > Storage & Cache > Clear Cache.
+3. Toggle Airplane Mode ON for 5 seconds and back OFF.
+
+Our tech team has logged your device details for further diagnostics.
+
+Best regards,
+PocketToons Tech Support",Technical & Playback Bugs,,,,
+TCK-1093,Episode unlock error on 'CEO's Hidden Heiress',"I spent 15 coins to unlock Episode 45 of 'Shadow Monarch', my coins were deducted, but when I click play it asks me to spend another 15 coins! Please fix this lock state.",Content Access & Coins,Coins Not Credited,0.78,Negative,False,,"Hello,
+
+Thank you for bringing this to our attention! We apologize for the delay in crediting your purchased coins.
+
+To immediately sync your coin wallet, please try the following steps:
+1. Force-close the PocketToons app and re-open it.
+2. Go to Profile > Account Settings and tap 'Sync Wallet Balance'.
+
+Our system has also triggered a manual sync for your recent order. Your coin balance should reflect within 5-10 minutes. If your balance does not update, please send us your Store Receipt Number and we will manually credit your account.
+
+Best regards,
+PocketToons Content Team",Content Access & Coins,,,,
+TCK-1074,Episode unlock error on 'CEO's Hidden Heiress',Unlocked Episodes 10 to 15 in bulk for 50 coins. Episodes 12 and 13 are still showing a padlock icon. Please restore my unlocked episodes.,Content Access & Coins,Episode Locked After Unlock,0.95,Negative,False,,"Hello,
+
+We apologize for the glitch with your unlocked episode!
+
+We have refreshed your content access tokens on our server for your account. Please force-close the app, reopen the show page, and tap 'Restore Unlocked Episodes'. You should now be able to play all unlocked episodes smoothly without any extra coin deductions.
+
+Happy listening!
+PocketToons Support Team",Content Access & Coins,,,,
+TCK-1042,How to stop recurring billing?,"I tried cancelling my $9.99 monthly pass in settings last week, but I was still billed today. Please verify my cancellation and refund this month's charge.",Billing & Refunds,Unauthorized Charge,0.87,Negative,False,,"Hello,
+
+Thank you for reaching out to PocketToons Billing Support.
+
+We have received your billing query. Our billing team is reviewing your transaction logs. If any discrepancies or unauthorized charges are identified, rest assured they will be immediately adjusted or refunded.
+
+Thank you for your patience,
+PocketToons Support Team",Billing & Refunds,,,,
+TCK-1105,Paid coins to unlock show but it asks for coins again,"I spent 15 coins to unlock Episode 45 of 'Shadow Monarch', my coins were deducted, but when I click play it asks me to spend another 15 coins! Please fix this lock state.",Content Access & Coins,Coins Not Credited,0.78,Neutral,False,,"Hello,
+
+Thank you for bringing this to our attention! We apologize for the delay in crediting your purchased coins.
+
+To immediately sync your coin wallet, please try the following steps:
+1. Force-close the PocketToons app and re-open it.
+2. Go to Profile > Account Settings and tap 'Sync Wallet Balance'.
+
+Our system has also triggered a manual sync for your recent order. Your coin balance should reflect within 5-10 minutes. If your balance does not update, please send us your Store Receipt Number and we will manually credit your account.
+
+Best regards,
+PocketToons Content Team",Content Access & Coins,,,,
+TCK-1171,Unrecognized device login from another country,"I received an email alert about a login from an IP address in Europe. I live in US. Someone logged into my account, changed my nickname, and spent 800 of my saved coins! Please lock my account and restore my coins immediately!",Account & Security,Cannot Login / OTP Fail,0.8,Neutral,True,Category 'Account & Security' requires human agent review,"[HUMAN AGENT DRAFT ONLY - DO NOT AUTO-SEND]
+Reason for Escalation: Category 'Account & Security' requires human agent review
+
+Hello,
+Thank you for reaching out to PocketToons Support. Your request has been escalated to a senior support specialist for priority review. A team member will inspect your account details and follow up with you within 2-4 hours.
+
+Best regards,
+PocketToons Tier 2 Escalations Team",Account & Security,,,,
+TCK-1185,Urgently help - someone hacked my account!,"I received an email alert about a login from an IP address in Europe. I live in US. Someone logged into my account, changed my nickname, and spent 800 of my saved coins! Please lock my account and restore my coins immediately!",Account & Security,Suspicious Activity / Hacked Account,0.87,Severe/Frustrated,True,Account security / compromise alert | Category 'Account & Security' requires human agent review | Category escalation trigger ('hacked') | Severe frustration on high-priority category,"[HUMAN AGENT DRAFT ONLY - DO NOT AUTO-SEND]
+Reason for Escalation: Account security / compromise alert | Category 'Account & Security' requires human agent review | Category escalation trigger ('hacked') | Severe frustration on high-priority category
+
+Hello,
+Thank you for reaching out to PocketToons Support. Your request has been escalated to a senior support specialist for priority review. A team member will inspect your account details and follow up with you within 2-4 hours.
+
+Best regards,
+PocketToons Tier 2 Escalations Team",Account & Security,,,,
+TCK-1121,Purchased annual VIP pass but still seeing ads and paywalls,"My VIP membership is active on iOS but when I log into iPad, it says I don't have VIP. Please sync my account privileges.",Content Access & Coins,VIP Membership Missing,0.78,Neutral,False,,"Hello,
+
+Thank you for contacting PocketToons Support.
+
+We've resynced your VIP subscription status across our servers. Please tap 'Restore Purchases' in the App Settings menu to reactivate your VIP perks on this device.
+
+If you continue experiencing issues, please verify that you are logged into the same account used during purchase.
+
+Best regards,
+PocketToons VIP Support",Content Access & Coins,,,,
+TCK-1131,App crashes immediately on launch,"Ever since updating to v3.12.0, the PocketToons app crashes immediately to the home screen upon launch. I cleared cache and reinstalled but issue persists on iPad Air (iOS 17.2).",Technical & Playback Bugs,App Crash,0.78,Severe/Frustrated,True,Legal/Regulatory escalation trigger ('sue'),"[HUMAN AGENT DRAFT ONLY - DO NOT AUTO-SEND]
+Reason for Escalation: Legal/Regulatory escalation trigger ('sue')
+
+Hello,
+Thank you for reaching out to PocketToons Support. Your request has been escalated to a senior support specialist for priority review. A team member will inspect your account details and follow up with you within 2-4 hours.
+
+Best regards,
+PocketToons Tier 2 Escalations Team",Technical & Playback Bugs,,,,
+TCK-1166,App freeze during coin checkout,The app freezes completely and screen turns black whenever I open my downloaded shows tab. Needs urgent bug fix.,Technical & Playback Bugs,App Crash,0.87,Negative,False,,"Hello,
+
+Thank you for reporting this playback issue to PocketToons Engineering.
+
+We recommend attempting the following troubleshooting steps:
+1. Ensure your app is updated to the latest version in App Store / Play Store.
+2. Go to Settings > Storage & Cache > Clear Cache.
+3. Toggle Airplane Mode ON for 5 seconds and back OFF.
+
+Our tech team has logged your device details for further diagnostics.
+
+Best regards,
+PocketToons Tech Support",Technical & Playback Bugs,,,,
+TCK-1079,Purchased annual VIP pass but still seeing ads and paywalls,"My VIP membership is active on iOS but when I log into iPad, it says I don't have VIP. Please sync my account privileges.",Content Access & Coins,VIP Membership Missing,0.78,Neutral,False,,"Hello,
+
+Thank you for contacting PocketToons Support.
+
+We've resynced your VIP subscription status across our servers. Please tap 'Restore Purchases' in the App Settings menu to reactivate your VIP perks on this device.
+
+If you continue experiencing issues, please verify that you are logged into the same account used during purchase.
+
+Best regards,
+PocketToons VIP Support",Content Access & Coins,,,,
+TCK-1111,Episode 25 locked despite using 10 coins,"I spent 15 coins to unlock Episode 45 of 'Shadow Monarch', my coins were deducted, but when I click play it asks me to spend another 15 coins! Please fix this lock state.",Content Access & Coins,Episode Locked After Unlock,0.87,Negative,False,,"Hello,
+
+We apologize for the glitch with your unlocked episode!
+
+We have refreshed your content access tokens on our server for your account. Please force-close the app, reopen the show page, and tap 'Restore Unlocked Episodes'. You should now be able to play all unlocked episodes smoothly without any extra coin deductions.
+
+Happy listening!
+PocketToons Support Team",Content Access & Coins,,,,
+TCK-1050,Requesting refund for Order #ORD-609232,The audio quality of the series 'The Billionaire's Secret' is unlistenable and muffled. I want a refund of the $9.99 VIP pass I bought 2 hours ago.,Billing & Refunds,Refund Request,0.78,Negative,False,,"Hello,
+
+Thank you for reaching out to PocketToons Support regarding your refund request.
+
+We understand accidental purchases can happen. We have logged your request. If this purchase was made within the last 14 days and the coin balance/content remains unused, our billing system will automatically process a full refund to your original payment method within 24-48 hours.
+
+Please confirm your Order ID if you haven't attached it yet so we can expedite your processing.
+
+Best regards,
+PocketToons Billing Team",Billing & Refunds,,,,
+TCK-1122,Purchased annual VIP pass but still seeing ads and paywalls,"I paid for the Annual VIP Pass last month. Today after updating to v3.12.1, my account reverted to Free Tier and asks me to buy coins again. I pressed 'Restore Purchases' but nothing happened.",Content Access & Coins,Coins Not Credited,0.87,Neutral,False,,"Hello,
+
+Thank you for bringing this to our attention! We apologize for the delay in crediting your purchased coins.
+
+To immediately sync your coin wallet, please try the following steps:
+1. Force-close the PocketToons app and re-open it.
+2. Go to Profile > Account Settings and tap 'Sync Wallet Balance'.
+
+Our system has also triggered a manual sync for your recent order. Your coin balance should reflect within 5-10 minutes. If your balance does not update, please send us your Store Receipt Number and we will manually credit your account.
+
+Best regards,
+PocketToons Content Team",Content Access & Coins,,,,
+TCK-1038,Double billing issue on order ORD-400850,"Hello team, I was charged twice for the monthly VIP pass ($14.99 x 2). I only pressed subscribe once. Please reverse the duplicate payment immediately.",Billing & Refunds,Double Billing,0.78,Severe/Frustrated,True,Legal/Regulatory escalation trigger ('sue') | Severe frustration on high-priority category,"[HUMAN AGENT DRAFT ONLY - DO NOT AUTO-SEND]
+Reason for Escalation: Legal/Regulatory escalation trigger ('sue') | Severe frustration on high-priority category
+
+Hello,
+Thank you for reaching out to PocketToons Support. Your request has been escalated to a senior support specialist for priority review. A team member will inspect your account details and follow up with you within 2-4 hours.
+
+Best regards,
+PocketToons Tier 2 Escalations Team",Billing & Refunds,,,,
+TCK-1007,Refund request for accidental purchase,My 6-year-old toddler tapped the screen and accidentally bought the 2000 coins pack for $29.99. None of the coins have been used yet. Can you please process a refund?,Billing & Refunds,Refund Request,0.78,Negative,False,,"Hello,
+
+Thank you for reaching out to PocketToons Support regarding your refund request.
+
+We understand accidental purchases can happen. We have logged your request. If this purchase was made within the last 14 days and the coin balance/content remains unused, our billing system will automatically process a full refund to your original payment method within 24-48 hours.
+
+Please confirm your Order ID if you haven't attached it yet so we can expedite your processing.
+
+Best regards,
+PocketToons Billing Team",Billing & Refunds,,,,
+TCK-1013,Duplicate charge on my credit card receipt #ORD-783823,"Hi, I bought the $9.99 coin bundle yesterday on my iPhone. My bank statement shows two pending charges of $9.99 on the same minute! Transaction ID: ORD-783823. Please refund the extra $9.99.",Billing & Refunds,Unauthorized Charge,0.95,Severe/Frustrated,True,Severe frustration on high-priority category,"[HUMAN AGENT DRAFT ONLY - DO NOT AUTO-SEND]
+Reason for Escalation: Severe frustration on high-priority category
+
+Hello,
+Thank you for reaching out to PocketToons Support. Your request has been escalated to a senior support specialist for priority review. A team member will inspect your account details and follow up with you within 2-4 hours.
+
+Best regards,
+PocketToons Tier 2 Escalations Team",Billing & Refunds,,,,
+TCK-1182,Permanently close my PocketToons account,"Under GDPR / CCPA regulations, I hereby request the permanent deletion of my PocketToons account (User ID: USR-62350) and all associated personal data from your systems.",Account & Security,Account Deletion Request,0.78,Neutral,True,Regulatory compliance / Data deletion request | Category 'Account & Security' requires human agent review | Category escalation trigger ('gdpr'),"[HUMAN AGENT DRAFT ONLY - DO NOT AUTO-SEND]
+Reason for Escalation: Regulatory compliance / Data deletion request | Category 'Account & Security' requires human agent review | Category escalation trigger ('gdpr')
+
+Hello,
+Thank you for reaching out to PocketToons Support. Your request has been escalated to a senior support specialist for priority review. A team member will inspect your account details and follow up with you within 2-4 hours.
+
+Best regards,
+PocketToons Tier 2 Escalations Team",Account & Security,,,,
+TCK-1064,Need refund for coin pack - child purchased by mistake,The audio quality of the series 'The Billionaire's Secret' is unlistenable and muffled. I want a refund of the $9.99 VIP pass I bought 2 hours ago.,Content Access & Coins,VIP Membership Missing,0.87,Negative,False,,"Hello,
+
+Thank you for contacting PocketToons Support.
+
+We've resynced your VIP subscription status across our servers. Please tap 'Restore Purchases' in the App Settings menu to reactivate your VIP perks on this device.
+
+If you continue experiencing issues, please verify that you are logged into the same account used during purchase.
+
+Best regards,
+PocketToons VIP Support",Billing & Refunds,,,,
+TCK-1116,Episode unlock error on 'CEO's Hidden Heiress',Unlocked Episodes 10 to 15 in bulk for 50 coins. Episodes 12 and 13 are still showing a padlock icon. Please restore my unlocked episodes.,Content Access & Coins,Episode Locked After Unlock,0.95,Negative,False,,"Hello,
+
+We apologize for the glitch with your unlocked episode!
+
+We have refreshed your content access tokens on our server for your account. Please force-close the app, reopen the show page, and tap 'Restore Unlocked Episodes'. You should now be able to play all unlocked episodes smoothly without any extra coin deductions.
+
+Happy listening!
+PocketToons Support Team",Content Access & Coins,,,,
+TCK-1069,Fraudulent charge from PocketToons,I noticed a charge of $49.99 from PocketToons on my credit card today. I cancelled my subscription last month! This is an unauthorized charge. Refund me now or I will file a bank chargeback.,Billing & Refunds,Unauthorized Charge,0.95,Severe/Frustrated,True,Category escalation trigger ('chargeback') | Category escalation trigger ('fraud') | Severe frustration on high-priority category,"[HUMAN AGENT DRAFT ONLY - DO NOT AUTO-SEND]
+Reason for Escalation: Category escalation trigger ('chargeback') | Category escalation trigger ('fraud') | Severe frustration on high-priority category
+
+Hello,
+Thank you for reaching out to PocketToons Support. Your request has been escalated to a senior support specialist for priority review. A team member will inspect your account details and follow up with you within 2-4 hours.
+
+Best regards,
+PocketToons Tier 2 Escalations Team",Billing & Refunds,,,,
+TCK-1032,Refund request for accidental purchase,My 6-year-old toddler tapped the screen and accidentally bought the 2000 coins pack for $29.99. None of the coins have been used yet. Can you please process a refund?,Billing & Refunds,Refund Request,0.78,Negative,False,,"Hello,
+
+Thank you for reaching out to PocketToons Support regarding your refund request.
+
+We understand accidental purchases can happen. We have logged your request. If this purchase was made within the last 14 days and the coin balance/content remains unused, our billing system will automatically process a full refund to your original payment method within 24-48 hours.
+
+Please confirm your Order ID if you haven't attached it yet so we can expedite your processing.
+
+Best regards,
+PocketToons Billing Team",Billing & Refunds,,,,
+TCK-1120,VIP membership inactive on my account,"I paid for the Annual VIP Pass last month. Today after updating to v3.12.0, my account reverted to Free Tier and asks me to buy coins again. I pressed 'Restore Purchases' but nothing happened.",Content Access & Coins,Coins Not Credited,0.87,Neutral,False,,"Hello,
+
+Thank you for bringing this to our attention! We apologize for the delay in crediting your purchased coins.
+
+To immediately sync your coin wallet, please try the following steps:
+1. Force-close the PocketToons app and re-open it.
+2. Go to Profile > Account Settings and tap 'Sync Wallet Balance'.
+
+Our system has also triggered a manual sync for your recent order. Your coin balance should reflect within 5-10 minutes. If your balance does not update, please send us your Store Receipt Number and we will manually credit your account.
+
+Best regards,
+PocketToons Content Team",Content Access & Coins,,,,
+TCK-1062,App Store charged me two times for VIP monthly pass,"Hi, I bought the $9.99 coin bundle yesterday on my iPhone. My bank statement shows two pending charges of $9.99 on the same minute! Transaction ID: ORD-572700. Please refund the extra $9.99.",Billing & Refunds,Unauthorized Charge,0.95,Severe/Frustrated,True,Severe frustration on high-priority category,"[HUMAN AGENT DRAFT ONLY - DO NOT AUTO-SEND]
+Reason for Escalation: Severe frustration on high-priority category
+
+Hello,
+Thank you for reaching out to PocketToons Support. Your request has been escalated to a senior support specialist for priority review. A team member will inspect your account details and follow up with you within 2-4 hours.
+
+Best regards,
+PocketToons Tier 2 Escalations Team",Billing & Refunds,,,,
+TCK-1141,Audio speeds up and sounds robot-like,"Whenever I play any audio show, the track plays 5 seconds then buffers endlessly. My internet connection is fast (100 Mbps). Device: iPhone 14 Pro (iOS 17.4).",Technical & Playback Bugs,Audio Stutter / Buffering,0.78,Neutral,False,,"Hello,
+
+Thank you for reporting this playback issue to PocketToons Engineering.
+
+We recommend attempting the following troubleshooting steps:
+1. Ensure your app is updated to the latest version in App Store / Play Store.
+2. Go to Settings > Storage & Cache > Clear Cache.
+3. Toggle Airplane Mode ON for 5 seconds and back OFF.
+
+Our tech team has logged your device details for further diagnostics.
+
+Best regards,
+PocketToons Tech Support",Technical & Playback Bugs,,,,
+TCK-1028,Unauthorized auto-renewal after cancellation,I noticed a charge of $49.99 from PocketToons on my credit card today. I cancelled my subscription last month! This is an unauthorized charge. Refund me now or I will file a bank chargeback.,Billing & Refunds,Unauthorized Charge,0.95,Severe/Frustrated,True,Category escalation trigger ('chargeback') | Severe frustration on high-priority category,"[HUMAN AGENT DRAFT ONLY - DO NOT AUTO-SEND]
+Reason for Escalation: Category escalation trigger ('chargeback') | Severe frustration on high-priority category
+
+Hello,
+Thank you for reaching out to PocketToons Support. Your request has been escalated to a senior support specialist for priority review. A team member will inspect your account details and follow up with you within 2-4 hours.
+
+Best regards,
+PocketToons Tier 2 Escalations Team",Billing & Refunds,,,,
+TCK-1132,Audio keeps pausing every 5 seconds,The audio player pitch is distorted and plays at 2x speed automatically even when 1x is selected. Please fix this player bug.,Technical & Playback Bugs,Audio Stutter / Buffering,0.78,Negative,False,,"Hello,
+
+Thank you for reporting this playback issue to PocketToons Engineering.
+
+We recommend attempting the following troubleshooting steps:
+1. Ensure your app is updated to the latest version in App Store / Play Store.
+2. Go to Settings > Storage & Cache > Clear Cache.
+3. Toggle Airplane Mode ON for 5 seconds and back OFF.
+
+Our tech team has logged your device details for further diagnostics.
+
+Best regards,
+PocketToons Tech Support",Technical & Playback Bugs,,,,
+TCK-1095,Restore purchase not working for VIP pass,Paid $49.99 for yearly VIP membership. Order #ORD-344907. Still showing lock icons on exclusive episodes.,Content Access & Coins,VIP Membership Missing,0.78,Neutral,False,,"Hello,
+
+Thank you for contacting PocketToons Support.
+
+We've resynced your VIP subscription status across our servers. Please tap 'Restore Purchases' in the App Settings menu to reactivate your VIP perks on this device.
+
+If you continue experiencing issues, please verify that you are logged into the same account used during purchase.
+
+Best regards,
+PocketToons VIP Support",Content Access & Coins,,,,
+TCK-1034,Cannot cancel monthly subscription,Please cancel my subscription immediately and send confirmation to my email. I do not want auto-renew enabled.,Billing & Refunds,Subscription Cancellation Issue,0.87,Negative,False,,"Hello,
+
+Thanks for reaching out to PocketToons. We're sorry to see you go!
+
+We have verified your account and stopped any future recurring auto-renewals for your subscription. You will continue to have full access to your VIP privileges until the end of your current billing cycle.
+
+You can also manage your subscriptions directly via your device settings:
+• iOS: Settings > Apple ID > Subscriptions > PocketToons
+• Android: Play Store > Profile > Payments & subscriptions > Subscriptions
+
+Let us know if you need anything else!
+
+Warm regards,
+PocketToons Customer Care",Billing & Refunds,,,,
+TCK-1103,Episode unlock error on 'CEO's Hidden Heiress',Coins were deducted twice for unlocking the same episode! Check my transaction history.,Content Access & Coins,Episode Locked After Unlock,0.78,Negative,False,,"Hello,
+
+We apologize for the glitch with your unlocked episode!
+
+We have refreshed your content access tokens on our server for your account. Please force-close the app, reopen the show page, and tap 'Restore Unlocked Episodes'. You should now be able to play all unlocked episodes smoothly without any extra coin deductions.
+
+Happy listening!
+PocketToons Support Team",Content Access & Coins,,,,
+TCK-1200,Great voice actor choice!,Just wanted to say the narration team for 'Alpha King' is phenomenal! Amazing sound effects and performance.,Feedback & General,Narrator Voice Feedback,0.56,Positive,True,Low classifier confidence (0.56 < 0.60),"[HUMAN AGENT DRAFT ONLY - DO NOT AUTO-SEND]
+Reason for Escalation: Low classifier confidence (0.56 < 0.60)
+
+Hello,
+Thank you for reaching out to PocketToons Support. Your request has been escalated to a senior support specialist for priority review. A team member will inspect your account details and follow up with you within 2-4 hours.
+
+Best regards,
+PocketToons Tier 2 Escalations Team",Feedback & General,,,,
+TCK-1082,VIP membership inactive on my account,Paid $49.99 for yearly VIP membership. Order #ORD-127121. Still showing lock icons on exclusive episodes.,Content Access & Coins,VIP Membership Missing,0.41,Neutral,True,Low classifier confidence (0.41 < 0.60),"[HUMAN AGENT DRAFT ONLY - DO NOT AUTO-SEND]
+Reason for Escalation: Low classifier confidence (0.41 < 0.60)
+
+Hello,
+Thank you for reaching out to PocketToons Support. Your request has been escalated to a senior support specialist for priority review. A team member will inspect your account details and follow up with you within 2-4 hours.
+
+Best regards,
+PocketToons Tier 2 Escalations Team",Content Access & Coins,,,,
+TCK-1081,Episode 25 locked despite using 10 coins,Unlocked Episodes 10 to 15 in bulk for 50 coins. Episodes 12 and 13 are still showing a padlock icon. Please restore my unlocked episodes.,Content Access & Coins,Episode Locked After Unlock,0.95,Negative,False,,"Hello,
+
+We apologize for the glitch with your unlocked episode!
+
+We have refreshed your content access tokens on our server for your account. Please force-close the app, reopen the show page, and tap 'Restore Unlocked Episodes'. You should now be able to play all unlocked episodes smoothly without any extra coin deductions.
+
+Happy listening!
+PocketToons Support Team",Content Access & Coins,,,,
+TCK-1037,Fraudulent charge from PocketToons,My credit card was charged $19.99 for coins I never purchased. I haven't opened the app in weeks. Please investigate this fraudulent charge and issue a full refund.,Billing & Refunds,Unauthorized Charge,0.95,Severe/Frustrated,True,Legal/Regulatory escalation trigger ('sue') | Category escalation trigger ('fraud') | Severe frustration on high-priority category,"[HUMAN AGENT DRAFT ONLY - DO NOT AUTO-SEND]
+Reason for Escalation: Legal/Regulatory escalation trigger ('sue') | Category escalation trigger ('fraud') | Severe frustration on high-priority category
+
+Hello,
+Thank you for reaching out to PocketToons Support. Your request has been escalated to a senior support specialist for priority review. A team member will inspect your account details and follow up with you within 2-4 hours.
+
+Best regards,
+PocketToons Tier 2 Escalations Team",Billing & Refunds,,,,
+TCK-1088,Purchased annual VIP pass but still seeing ads and paywalls,"My VIP membership is active on iOS but when I log into iPad, it says I don't have VIP. Please sync my account privileges.",Content Access & Coins,VIP Membership Missing,0.78,Neutral,False,,"Hello,
+
+Thank you for contacting PocketToons Support.
+
+We've resynced your VIP subscription status across our servers. Please tap 'Restore Purchases' in the App Settings menu to reactivate your VIP perks on this device.
+
+If you continue experiencing issues, please verify that you are logged into the same account used during purchase.
+
+Best regards,
+PocketToons VIP Support",Content Access & Coins,,,,
+TCK-1053,Refund for unlistened audiobook season,My 6-year-old toddler tapped the screen and accidentally bought the 2000 coins pack for $29.99. None of the coins have been used yet. Can you please process a refund?,Content Access & Coins,Coins Not Credited,0.78,Negative,False,,"Hello,
+
+Thank you for bringing this to our attention! We apologize for the delay in crediting your purchased coins.
+
+To immediately sync your coin wallet, please try the following steps:
+1. Force-close the PocketToons app and re-open it.
+2. Go to Profile > Account Settings and tap 'Sync Wallet Balance'.
+
+Our system has also triggered a manual sync for your recent order. Your coin balance should reflect within 5-10 minutes. If your balance does not update, please send us your Store Receipt Number and we will manually credit your account.
+
+Best regards,
+PocketToons Content Team",Billing & Refunds,,,,
+TCK-1119,VIP status lost after app update,"My VIP membership is active on iOS but when I log into iPad, it says I don't have VIP. Please sync my account privileges.",Content Access & Coins,VIP Membership Missing,0.42,Neutral,True,Low classifier confidence (0.42 < 0.60),"[HUMAN AGENT DRAFT ONLY - DO NOT AUTO-SEND]
+Reason for Escalation: Low classifier confidence (0.42 < 0.60)
+
+Hello,
+Thank you for reaching out to PocketToons Support. Your request has been escalated to a senior support specialist for priority review. A team member will inspect your account details and follow up with you within 2-4 hours.
+
+Best regards,
+PocketToons Tier 2 Escalations Team",Content Access & Coins,,,,
+TCK-1157,PocketToons keeps stopping on Xiaomi Redmi Note 12 (Android 13),The app freezes completely and screen turns black whenever I open my downloaded shows tab. Needs urgent bug fix.,Technical & Playback Bugs,App Crash,0.87,Negative,False,,"Hello,
+
+Thank you for reporting this playback issue to PocketToons Engineering.
+
+We recommend attempting the following troubleshooting steps:
+1. Ensure your app is updated to the latest version in App Store / Play Store.
+2. Go to Settings > Storage & Cache > Clear Cache.
+3. Toggle Airplane Mode ON for 5 seconds and back OFF.
+
+Our tech team has logged your device details for further diagnostics.
+
+Best regards,
+PocketToons Tech Support",Technical & Playback Bugs,,,,
+TCK-1164,Audio keeps pausing every 5 seconds,The audio player pitch is distorted and plays at 2x speed automatically even when 1x is selected. Please fix this player bug.,Technical & Playback Bugs,Audio Stutter / Buffering,0.78,Negative,False,,"Hello,
+
+Thank you for reporting this playback issue to PocketToons Engineering.
+
+We recommend attempting the following troubleshooting steps:
+1. Ensure your app is updated to the latest version in App Store / Play Store.
+2. Go to Settings > Storage & Cache > Clear Cache.
+3. Toggle Airplane Mode ON for 5 seconds and back OFF.
+
+Our tech team has logged your device details for further diagnostics.
+
+Best regards,
+PocketToons Tech Support",Technical & Playback Bugs,,,,
+TCK-1113,VIP membership inactive on my account,"I paid for the Annual VIP Pass last month. Today after updating to v3.11.8, my account reverted to Free Tier and asks me to buy coins again. I pressed 'Restore Purchases' but nothing happened.",Content Access & Coins,Coins Not Credited,0.87,Neutral,False,,"Hello,
+
+Thank you for bringing this to our attention! We apologize for the delay in crediting your purchased coins.
+
+To immediately sync your coin wallet, please try the following steps:
+1. Force-close the PocketToons app and re-open it.
+2. Go to Profile > Account Settings and tap 'Sync Wallet Balance'.
+
+Our system has also triggered a manual sync for your recent order. Your coin balance should reflect within 5-10 minutes. If your balance does not update, please send us your Store Receipt Number and we will manually credit your account.
+
+Best regards,
+PocketToons Content Team",Content Access & Coins,,,,
+TCK-1041,Unauthorized auto-renewal after cancellation,I am contacting my bank and attorney if this $50 unauthorized renewal is not refunded immediately. Order ID ORD-740967.,Billing & Refunds,Unauthorized Charge,0.95,Severe/Frustrated,True,Legal/Regulatory escalation trigger ('attorney') | Category escalation trigger ('attorney') | Severe frustration on high-priority category,"[HUMAN AGENT DRAFT ONLY - DO NOT AUTO-SEND]
+Reason for Escalation: Legal/Regulatory escalation trigger ('attorney') | Category escalation trigger ('attorney') | Severe frustration on high-priority category
+
+Hello,
+Thank you for reaching out to PocketToons Support. Your request has been escalated to a senior support specialist for priority review. A team member will inspect your account details and follow up with you within 2-4 hours.
+
+Best regards,
+PocketToons Tier 2 Escalations Team",Billing & Refunds,,,,
+TCK-1016,Charged twice for 500 Coin Pack,"Hi, I bought the $9.99 coin bundle yesterday on my iPhone. My bank statement shows two pending charges of $9.99 on the same minute! Transaction ID: ORD-871476. Please refund the extra $9.99.",Billing & Refunds,Unauthorized Charge,0.95,Severe/Frustrated,True,Severe frustration on high-priority category,"[HUMAN AGENT DRAFT ONLY - DO NOT AUTO-SEND]
+Reason for Escalation: Severe frustration on high-priority category
+
+Hello,
+Thank you for reaching out to PocketToons Support. Your request has been escalated to a senior support specialist for priority review. A team member will inspect your account details and follow up with you within 2-4 hours.
+
+Best regards,
+PocketToons Tier 2 Escalations Team",Billing & Refunds,,,,
+TCK-1019,Refund for unlistened audiobook season,I accidentally bought the wrong coin tier ($19.99 instead of $4.99). I haven't spent any of the coins. Please refund Order #ORD-314181 so I can buy the correct one.,Content Access & Coins,Coins Not Credited,0.78,Negative,False,,"Hello,
+
+Thank you for bringing this to our attention! We apologize for the delay in crediting your purchased coins.
+
+To immediately sync your coin wallet, please try the following steps:
+1. Force-close the PocketToons app and re-open it.
+2. Go to Profile > Account Settings and tap 'Sync Wallet Balance'.
+
+Our system has also triggered a manual sync for your recent order. Your coin balance should reflect within 5-10 minutes. If your balance does not update, please send us your Store Receipt Number and we will manually credit your account.
+
+Best regards,
+PocketToons Content Team",Billing & Refunds,,,,
+TCK-1117,Episode unlock error on 'CEO's Hidden Heiress',Unlocked Episodes 10 to 15 in bulk for 50 coins. Episodes 12 and 13 are still showing a padlock icon. Please restore my unlocked episodes.,Content Access & Coins,Episode Locked After Unlock,0.95,Negative,False,,"Hello,
+
+We apologize for the glitch with your unlocked episode!
+
+We have refreshed your content access tokens on our server for your account. Please force-close the app, reopen the show page, and tap 'Restore Unlocked Episodes'. You should now be able to play all unlocked episodes smoothly without any extra coin deductions.
+
+Happy listening!
+PocketToons Support Team",Content Access & Coins,,,,
+TCK-1077,Paid coins to unlock show but it asks for coins again,Coins were deducted twice for unlocking the same episode! Check my transaction history.,Content Access & Coins,Episode Locked After Unlock,0.78,Neutral,False,,"Hello,
+
+We apologize for the glitch with your unlocked episode!
+
+We have refreshed your content access tokens on our server for your account. Please force-close the app, reopen the show page, and tap 'Restore Unlocked Episodes'. You should now be able to play all unlocked episodes smoothly without any extra coin deductions.
+
+Happy listening!
+PocketToons Support Team",Content Access & Coins,,,,
+TCK-1104,Coins deducted but episode won't play,"I spent 15 coins to unlock Episode 45 of 'Shadow Monarch', my coins were deducted, but when I click play it asks me to spend another 15 coins! Please fix this lock state.",Content Access & Coins,Coins Not Credited,0.78,Neutral,False,,"Hello,
+
+Thank you for bringing this to our attention! We apologize for the delay in crediting your purchased coins.
+
+To immediately sync your coin wallet, please try the following steps:
+1. Force-close the PocketToons app and re-open it.
+2. Go to Profile > Account Settings and tap 'Sync Wallet Balance'.
+
+Our system has also triggered a manual sync for your recent order. Your coin balance should reflect within 5-10 minutes. If your balance does not update, please send us your Store Receipt Number and we will manually credit your account.
+
+Best regards,
+PocketToons Content Team",Content Access & Coins,,,,
+TCK-1063,Refund for unlistened audiobook season,I accidentally bought the wrong coin tier ($19.99 instead of $4.99). I haven't spent any of the coins. Please refund Order #ORD-611233 so I can buy the correct one.,Content Access & Coins,Coins Not Credited,0.78,Negative,False,,"Hello,
+
+Thank you for bringing this to our attention! We apologize for the delay in crediting your purchased coins.
+
+To immediately sync your coin wallet, please try the following steps:
+1. Force-close the PocketToons app and re-open it.
+2. Go to Profile > Account Settings and tap 'Sync Wallet Balance'.
+
+Our system has also triggered a manual sync for your recent order. Your coin balance should reflect within 5-10 minutes. If your balance does not update, please send us your Store Receipt Number and we will manually credit your account.
+
+Best regards,
+PocketToons Content Team",Billing & Refunds,,,,
+TCK-1124,Missing coin purchase,"Hey support, I bought 500 coins for $9.99. Receipt #ORD-651640 received, but coins haven't shown up after restarting the app. User ID: USR-75435.",Content Access & Coins,Show Missing,0.78,Neutral,False,,"Hello,
+
+Thank you for reaching out to PocketToons Content Team.
+
+We have refreshed your account library permissions. Please log out and back in to see your updated content.
+
+Warm regards,
+PocketToons Team",Content Access & Coins,,,,
+TCK-1189,Suggestion for narrator sound quality,Just wanted to say the narration team for 'Alpha King' is phenomenal! Amazing sound effects and performance.,Feedback & General,Narrator Voice Feedback,0.78,Positive,False,,"Hello,
+
+Thank you so much for taking the time to share your feedback with PocketToons!
+
+We love hearing from our listeners. Your suggestions have been shared directly with our Product and Content teams as we work on upcoming app updates and show releases.
+
+Thanks for being a valued part of our community!
+
+Warmly,
+PocketToons Product Team",Feedback & General,,,,
+TCK-1075,Coins deducted but episode won't play,Coins were deducted twice for unlocking the same episode! Check my transaction history.,Content Access & Coins,Episode Locked After Unlock,0.78,Neutral,False,,"Hello,
+
+We apologize for the glitch with your unlocked episode!
+
+We have refreshed your content access tokens on our server for your account. Please force-close the app, reopen the show page, and tap 'Restore Unlocked Episodes'. You should now be able to play all unlocked episodes smoothly without any extra coin deductions.
+
+Happy listening!
+PocketToons Support Team",Content Access & Coins,,,,
+TCK-1140,Error downloading episode for offline listening,"I downloaded 20 episodes for my flight, but when I turned on Airplane Mode, the app says 'No internet connection' and won't play offline files. What's the point of offline mode?",Technical & Playback Bugs,Offline Download Failed,0.87,Negative,False,,"Hello,
+
+Thank you for reporting this playback issue to PocketToons Engineering.
+
+We recommend attempting the following troubleshooting steps:
+1. Ensure your app is updated to the latest version in App Store / Play Store.
+2. Go to Settings > Storage & Cache > Clear Cache.
+3. Toggle Airplane Mode ON for 5 seconds and back OFF.
+
+Our tech team has logged your device details for further diagnostics.
+
+Best regards,
+PocketToons Tech Support",Technical & Playback Bugs,,,,
+TCK-1128,Restore purchase not working for VIP pass,"I paid for the Annual VIP Pass last month. Today after updating to v3.11.8, my account reverted to Free Tier and asks me to buy coins again. I pressed 'Restore Purchases' but nothing happened.",Content Access & Coins,Coins Not Credited,0.87,Neutral,False,,"Hello,
+
+Thank you for bringing this to our attention! We apologize for the delay in crediting your purchased coins.
+
+To immediately sync your coin wallet, please try the following steps:
+1. Force-close the PocketToons app and re-open it.
+2. Go to Profile > Account Settings and tap 'Sync Wallet Balance'.
+
+Our system has also triggered a manual sync for your recent order. Your coin balance should reflect within 5-10 minutes. If your balance does not update, please send us your Store Receipt Number and we will manually credit your account.
+
+Best regards,
+PocketToons Content Team",Content Access & Coins,,,,
+TCK-1172,OTP SMS code not arriving,"I'm trying to log in using my phone number, but the 6-digit OTP SMS code is never delivered to my phone. I tried 5 times. Please help me log in.",Account & Security,Cannot Login / OTP Fail,0.78,Neutral,True,Category 'Account & Security' requires human agent review,"[HUMAN AGENT DRAFT ONLY - DO NOT AUTO-SEND]
+Reason for Escalation: Category 'Account & Security' requires human agent review
+
+Hello,
+Thank you for reaching out to PocketToons Support. Your request has been escalated to a senior support specialist for priority review. A team member will inspect your account details and follow up with you within 2-4 hours.
+
+Best regards,
+PocketToons Tier 2 Escalations Team",Account & Security,,,,
+TCK-1159,Downloaded episodes won't play offline,Downloaded files disappeared from my library after signing out and signing back in.,Content Access & Coins,Episode Locked After Unlock,0.29,Neutral,True,Low classifier confidence (0.29 < 0.60),"[HUMAN AGENT DRAFT ONLY - DO NOT AUTO-SEND]
+Reason for Escalation: Low classifier confidence (0.29 < 0.60)
+
+Hello,
+Thank you for reaching out to PocketToons Support. Your request has been escalated to a senior support specialist for priority review. A team member will inspect your account details and follow up with you within 2-4 hours.
+
+Best regards,
+PocketToons Tier 2 Escalations Team",Technical & Playback Bugs,,,,
+TCK-1107,Paid coins to unlock show but it asks for coins again,"I spent 15 coins to unlock Episode 45 of 'Shadow Monarch', my coins were deducted, but when I click play it asks me to spend another 15 coins! Please fix this lock state.",Content Access & Coins,Coins Not Credited,0.78,Neutral,False,,"Hello,
+
+Thank you for bringing this to our attention! We apologize for the delay in crediting your purchased coins.
+
+To immediately sync your coin wallet, please try the following steps:
+1. Force-close the PocketToons app and re-open it.
+2. Go to Profile > Account Settings and tap 'Sync Wallet Balance'.
+
+Our system has also triggered a manual sync for your recent order. Your coin balance should reflect within 5-10 minutes. If your balance does not update, please send us your Store Receipt Number and we will manually credit your account.
+
+Best regards,
+PocketToons Content Team",Content Access & Coins,,,,
+TCK-1147,Playback stops continuously on Wi-Fi,Audio cuts out when my phone screen turns off. Background playback is broken on app version v3.12.1.,Technical & Playback Bugs,Background Playback Issue,0.85,Negative,False,,"Hello,
+
+Thank you for reporting this playback issue to PocketToons Engineering.
+
+We recommend attempting the following troubleshooting steps:
+1. Ensure your app is updated to the latest version in App Store / Play Store.
+2. Go to Settings > Storage & Cache > Clear Cache.
+3. Toggle Airplane Mode ON for 5 seconds and back OFF.
+
+Our tech team has logged your device details for further diagnostics.
+
+Best regards,
+PocketToons Tech Support",Technical & Playback Bugs,,,,
+TCK-1054,Charged twice for 500 Coin Pack,"Hi, I bought the $9.99 coin bundle yesterday on my iPhone. My bank statement shows two pending charges of $9.99 on the same minute! Transaction ID: ORD-154615. Please refund the extra $9.99.",Billing & Refunds,Unauthorized Charge,0.95,Severe/Frustrated,True,Severe frustration on high-priority category,"[HUMAN AGENT DRAFT ONLY - DO NOT AUTO-SEND]
+Reason for Escalation: Severe frustration on high-priority category
+
+Hello,
+Thank you for reaching out to PocketToons Support. Your request has been escalated to a senior support specialist for priority review. A team member will inspect your account details and follow up with you within 2-4 hours.
+
+Best regards,
+PocketToons Tier 2 Escalations Team",Billing & Refunds,,,,
+TCK-1068,Refund request for accidental purchase,The audio quality of the series 'The Billionaire's Secret' is unlistenable and muffled. I want a refund of the $9.99 VIP pass I bought 2 hours ago.,Billing & Refunds,Refund Request,0.78,Negative,False,,"Hello,
+
+Thank you for reaching out to PocketToons Support regarding your refund request.
+
+We understand accidental purchases can happen. We have logged your request. If this purchase was made within the last 14 days and the coin balance/content remains unused, our billing system will automatically process a full refund to your original payment method within 24-48 hours.
+
+Please confirm your Order ID if you haven't attached it yet so we can expedite your processing.
+
+Best regards,
+PocketToons Billing Team",Billing & Refunds,,,,
+TCK-1148,Crash when opening 'My Library' tab,"Ever since updating to v3.12.1, the PocketToons app crashes immediately to the home screen upon launch. I cleared cache and reinstalled but issue persists on Pixel 8 (Android 14).",Technical & Playback Bugs,App Crash,0.78,Severe/Frustrated,True,Legal/Regulatory escalation trigger ('sue'),"[HUMAN AGENT DRAFT ONLY - DO NOT AUTO-SEND]
+Reason for Escalation: Legal/Regulatory escalation trigger ('sue')
+
+Hello,
+Thank you for reaching out to PocketToons Support. Your request has been escalated to a senior support specialist for priority review. A team member will inspect your account details and follow up with you within 2-4 hours.
+
+Best regards,
+PocketToons Tier 2 Escalations Team",Technical & Playback Bugs,,,,
+TCK-1184,Urgently help - someone hacked my account!,Urgent: Unauthorized password change notification received. I did not request this. Freeze my account to prevent fraud!,Account & Security,Suspicious Activity / Hacked Account,0.87,Severe/Frustrated,True,Account security / compromise alert | Category 'Account & Security' requires human agent review | Category escalation trigger ('hacked') | Severe frustration on high-priority category,"[HUMAN AGENT DRAFT ONLY - DO NOT AUTO-SEND]
+Reason for Escalation: Account security / compromise alert | Category 'Account & Security' requires human agent review | Category escalation trigger ('hacked') | Severe frustration on high-priority category
+
+Hello,
+Thank you for reaching out to PocketToons Support. Your request has been escalated to a senior support specialist for priority review. A team member will inspect your account details and follow up with you within 2-4 hours.
+
+Best regards,
+PocketToons Tier 2 Escalations Team",Account & Security,,,,
+TCK-1012,Charged after cancelling VIP membership,"I tried cancelling my $9.99 monthly pass in settings last week, but I was still billed today. Please verify my cancellation and refund this month's charge.",Billing & Refunds,Unauthorized Charge,0.95,Negative,False,,"Hello,
+
+Thank you for reaching out to PocketToons Billing Support.
+
+We have received your billing query. Our billing team is reviewing your transaction logs. If any discrepancies or unauthorized charges are identified, rest assured they will be immediately adjusted or refunded.
+
+Thank you for your patience,
+PocketToons Support Team",Billing & Refunds,,,,
+TCK-1197,Suggestion for narrator sound quality,The new voice actor for Season 2 of 'Reborn Legend' sounds very monotone compared to Season 1. Please consider bringing back the original voice cast!,Feedback & General,Narrator Voice Feedback,0.87,Neutral,False,,"Hello,
+
+Thank you so much for taking the time to share your feedback with PocketToons!
+
+We love hearing from our listeners. Your suggestions have been shared directly with our Product and Content teams as we work on upcoming app updates and show releases.
+
+Thanks for being a valued part of our community!
+
+Warmly,
+PocketToons Product Team",Feedback & General,,,,
+TCK-1008,Fraudulent charge from PocketToons,I am contacting my bank and attorney if this $50 unauthorized renewal is not refunded immediately. Order ID ORD-132938.,Billing & Refunds,Unauthorized Charge,0.95,Severe/Frustrated,True,Legal/Regulatory escalation trigger ('attorney') | Category escalation trigger ('attorney') | Category escalation trigger ('fraud') | Severe frustration on high-priority category,"[HUMAN AGENT DRAFT ONLY - DO NOT AUTO-SEND]
+Reason for Escalation: Legal/Regulatory escalation trigger ('attorney') | Category escalation trigger ('attorney') | Category escalation trigger ('fraud') | Severe frustration on high-priority category
+
+Hello,
+Thank you for reaching out to PocketToons Support. Your request has been escalated to a senior support specialist for priority review. A team member will inspect your account details and follow up with you within 2-4 hours.
+
+Best regards,
+PocketToons Tier 2 Escalations Team",Billing & Refunds,,,,
+TCK-1011,Duplicate charge on my credit card receipt #ORD-522179,"Hi, I bought the $9.99 coin bundle yesterday on my iPhone. My bank statement shows two pending charges of $9.99 on the same minute! Transaction ID: ORD-522179. Please refund the extra $9.99.",Billing & Refunds,Unauthorized Charge,0.95,Severe/Frustrated,True,Severe frustration on high-priority category,"[HUMAN AGENT DRAFT ONLY - DO NOT AUTO-SEND]
+Reason for Escalation: Severe frustration on high-priority category
+
+Hello,
+Thank you for reaching out to PocketToons Support. Your request has been escalated to a senior support specialist for priority review. A team member will inspect your account details and follow up with you within 2-4 hours.
+
+Best regards,
+PocketToons Tier 2 Escalations Team",Billing & Refunds,,,,
+TCK-1145,App freeze during coin checkout,Crash report: app crashes every time I try to play Episode 10 of any series.,Technical & Playback Bugs,App Crash,0.87,Neutral,False,,"Hello,
+
+Thank you for reporting this playback issue to PocketToons Engineering.
+
+We recommend attempting the following troubleshooting steps:
+1. Ensure your app is updated to the latest version in App Store / Play Store.
+2. Go to Settings > Storage & Cache > Clear Cache.
+3. Toggle Airplane Mode ON for 5 seconds and back OFF.
+
+Our tech team has logged your device details for further diagnostics.
+
+Best regards,
+PocketToons Tech Support",Technical & Playback Bugs,,,,
+TCK-1087,VIP membership inactive on my account,Paid $49.99 for yearly VIP membership. Order #ORD-584417. Still showing lock icons on exclusive episodes.,Content Access & Coins,VIP Membership Missing,0.41,Neutral,True,Low classifier confidence (0.41 < 0.60),"[HUMAN AGENT DRAFT ONLY - DO NOT AUTO-SEND]
+Reason for Escalation: Low classifier confidence (0.41 < 0.60)
+
+Hello,
+Thank you for reaching out to PocketToons Support. Your request has been escalated to a senior support specialist for priority review. A team member will inspect your account details and follow up with you within 2-4 hours.
+
+Best regards,
+PocketToons Tier 2 Escalations Team",Content Access & Coins,,,,
+TCK-1155,Downloaded episodes won't play offline,Downloads get stuck at 99% and fail with code ERR_STORAGE_WRITE. Device has over 30GB free storage available.,Content Access & Coins,Episode Locked After Unlock,0.29,Negative,True,Low classifier confidence (0.29 < 0.60),"[HUMAN AGENT DRAFT ONLY - DO NOT AUTO-SEND]
+Reason for Escalation: Low classifier confidence (0.29 < 0.60)
+
+Hello,
+Thank you for reaching out to PocketToons Support. Your request has been escalated to a senior support specialist for priority review. A team member will inspect your account details and follow up with you within 2-4 hours.
+
+Best regards,
+PocketToons Tier 2 Escalations Team",Technical & Playback Bugs,,,,
+TCK-1160,App crashes immediately on launch,The app freezes completely and screen turns black whenever I open my downloaded shows tab. Needs urgent bug fix.,Technical & Playback Bugs,App Crash,0.95,Negative,False,,"Hello,
+
+Thank you for reporting this playback issue to PocketToons Engineering.
+
+We recommend attempting the following troubleshooting steps:
+1. Ensure your app is updated to the latest version in App Store / Play Store.
+2. Go to Settings > Storage & Cache > Clear Cache.
+3. Toggle Airplane Mode ON for 5 seconds and back OFF.
+
+Our tech team has logged your device details for further diagnostics.
+
+Best regards,
+PocketToons Tech Support",Technical & Playback Bugs,,,,
+TCK-1169,SMS verification failed for phone number,Changed my phone number and now I can't access my old account with 1500 purchased coins. How can I transfer my account?,Account & Security,Cannot Login / OTP Fail,0.87,Negative,True,Category 'Account & Security' requires human agent review,"[HUMAN AGENT DRAFT ONLY - DO NOT AUTO-SEND]
+Reason for Escalation: Category 'Account & Security' requires human agent review
+
+Hello,
+Thank you for reaching out to PocketToons Support. Your request has been escalated to a senior support specialist for priority review. A team member will inspect your account details and follow up with you within 2-4 hours.
+
+Best regards,
+PocketToons Tier 2 Escalations Team",Account & Security,,,,
+TCK-1183,SMS verification failed for phone number,Changed my phone number and now I can't access my old account with 1500 purchased coins. How can I transfer my account?,Account & Security,Cannot Login / OTP Fail,0.87,Negative,True,Category 'Account & Security' requires human agent review,"[HUMAN AGENT DRAFT ONLY - DO NOT AUTO-SEND]
+Reason for Escalation: Category 'Account & Security' requires human agent review
+
+Hello,
+Thank you for reaching out to PocketToons Support. Your request has been escalated to a senior support specialist for priority review. A team member will inspect your account details and follow up with you within 2-4 hours.
+
+Best regards,
+PocketToons Tier 2 Escalations Team",Account & Security,,,,
+TCK-1040,Duplicate charge on my credit card receipt #ORD-805477,"Hi, I bought the $9.99 coin bundle yesterday on my iPhone. My bank statement shows two pending charges of $9.99 on the same minute! Transaction ID: ORD-805477. Please refund the extra $9.99.",Billing & Refunds,Unauthorized Charge,0.95,Severe/Frustrated,True,Severe frustration on high-priority category,"[HUMAN AGENT DRAFT ONLY - DO NOT AUTO-SEND]
+Reason for Escalation: Severe frustration on high-priority category
+
+Hello,
+Thank you for reaching out to PocketToons Support. Your request has been escalated to a senior support specialist for priority review. A team member will inspect your account details and follow up with you within 2-4 hours.
+
+Best regards,
+PocketToons Tier 2 Escalations Team",Billing & Refunds,,,,
+TCK-1149,Error downloading episode for offline listening,Downloaded files disappeared from my library after signing out and signing back in.,Technical & Playback Bugs,Offline Download Failed,0.78,Negative,False,,"Hello,
+
+Thank you for reporting this playback issue to PocketToons Engineering.
+
+We recommend attempting the following troubleshooting steps:
+1. Ensure your app is updated to the latest version in App Store / Play Store.
+2. Go to Settings > Storage & Cache > Clear Cache.
+3. Toggle Airplane Mode ON for 5 seconds and back OFF.
+
+Our tech team has logged your device details for further diagnostics.
+
+Best regards,
+PocketToons Tech Support",Technical & Playback Bugs,,,,
+TCK-1152,Audio keeps pausing every 5 seconds,The audio player pitch is distorted and plays at 2x speed automatically even when 1x is selected. Please fix this player bug.,Technical & Playback Bugs,Audio Stutter / Buffering,0.78,Negative,False,,"Hello,
+
+Thank you for reporting this playback issue to PocketToons Engineering.
+
+We recommend attempting the following troubleshooting steps:
+1. Ensure your app is updated to the latest version in App Store / Play Store.
+2. Go to Settings > Storage & Cache > Clear Cache.
+3. Toggle Airplane Mode ON for 5 seconds and back OFF.
+
+Our tech team has logged your device details for further diagnostics.
+
+Best regards,
+PocketToons Tech Support",Technical & Playback Bugs,,,,
+TCK-1044,Need refund for coin pack - child purchased by mistake,The audio quality of the series 'The Billionaire's Secret' is unlistenable and muffled. I want a refund of the $9.99 VIP pass I bought 2 hours ago.,Content Access & Coins,VIP Membership Missing,0.87,Negative,False,,"Hello,
+
+Thank you for contacting PocketToons Support.
+
+We've resynced your VIP subscription status across our servers. Please tap 'Restore Purchases' in the App Settings menu to reactivate your VIP perks on this device.
+
+If you continue experiencing issues, please verify that you are logged into the same account used during purchase.
+
+Best regards,
+PocketToons VIP Support",Billing & Refunds,,,,
+TCK-1165,Download stuck at 99%,Downloaded files disappeared from my library after signing out and signing back in.,Account & Security,Cannot Login / OTP Fail,0.31,Negative,True,Low classifier confidence (0.31 < 0.60) | Category 'Account & Security' requires human agent review,"[HUMAN AGENT DRAFT ONLY - DO NOT AUTO-SEND]
+Reason for Escalation: Low classifier confidence (0.31 < 0.60) | Category 'Account & Security' requires human agent review
+
+Hello,
+Thank you for reaching out to PocketToons Support. Your request has been escalated to a senior support specialist for priority review. A team member will inspect your account details and follow up with you within 2-4 hours.
+
+Best regards,
+PocketToons Tier 2 Escalations Team",Technical & Playback Bugs,,,,
+TCK-1129,Purchased annual VIP pass but still seeing ads and paywalls,"My VIP membership is active on iOS but when I log into iPad, it says I don't have VIP. Please sync my account privileges.",Content Access & Coins,VIP Membership Missing,0.78,Neutral,False,,"Hello,
+
+Thank you for contacting PocketToons Support.
+
+We've resynced your VIP subscription status across our servers. Please tap 'Restore Purchases' in the App Settings menu to reactivate your VIP perks on this device.
+
+If you continue experiencing issues, please verify that you are logged into the same account used during purchase.
+
+Best regards,
+PocketToons VIP Support",Content Access & Coins,,,,
+TCK-1024,Refund for unlistened audiobook season,My 6-year-old toddler tapped the screen and accidentally bought the 2000 coins pack for $29.99. None of the coins have been used yet. Can you please process a refund?,Content Access & Coins,Coins Not Credited,0.78,Negative,False,,"Hello,
+
+Thank you for bringing this to our attention! We apologize for the delay in crediting your purchased coins.
+
+To immediately sync your coin wallet, please try the following steps:
+1. Force-close the PocketToons app and re-open it.
+2. Go to Profile > Account Settings and tap 'Sync Wallet Balance'.
+
+Our system has also triggered a manual sync for your recent order. Your coin balance should reflect within 5-10 minutes. If your balance does not update, please send us your Store Receipt Number and we will manually credit your account.
+
+Best regards,
+PocketToons Content Team",Billing & Refunds,,,,
+TCK-1137,Audio keeps pausing every 5 seconds,"Whenever I play any audio show, the track plays 5 seconds then buffers endlessly. My internet connection is fast (100 Mbps). Device: iPad Air (iOS 17.2).",Technical & Playback Bugs,Audio Stutter / Buffering,0.78,Neutral,False,,"Hello,
+
+Thank you for reporting this playback issue to PocketToons Engineering.
+
+We recommend attempting the following troubleshooting steps:
+1. Ensure your app is updated to the latest version in App Store / Play Store.
+2. Go to Settings > Storage & Cache > Clear Cache.
+3. Toggle Airplane Mode ON for 5 seconds and back OFF.
+
+Our tech team has logged your device details for further diagnostics.
+
+Best regards,
+PocketToons Tech Support",Technical & Playback Bugs,,,,
+TCK-1158,App crashes immediately on launch,The app freezes completely and screen turns black whenever I open my downloaded shows tab. Needs urgent bug fix.,Technical & Playback Bugs,App Crash,0.95,Negative,False,,"Hello,
+
+Thank you for reporting this playback issue to PocketToons Engineering.
+
+We recommend attempting the following troubleshooting steps:
+1. Ensure your app is updated to the latest version in App Store / Play Store.
+2. Go to Settings > Storage & Cache > Clear Cache.
+3. Toggle Airplane Mode ON for 5 seconds and back OFF.
+
+Our tech team has logged your device details for further diagnostics.
+
+Best regards,
+PocketToons Tech Support",Technical & Playback Bugs,,,,
+TCK-1078,Coins not added after successful payment,Payment was successful on Google Play but the app threw an error 'Transaction Pending' and my coins are missing. Please help credit them.,Content Access & Coins,Coins Not Credited,0.78,Negative,False,,"Hello,
+
+Thank you for bringing this to our attention! We apologize for the delay in crediting your purchased coins.
+
+To immediately sync your coin wallet, please try the following steps:
+1. Force-close the PocketToons app and re-open it.
+2. Go to Profile > Account Settings and tap 'Sync Wallet Balance'.
+
+Our system has also triggered a manual sync for your recent order. Your coin balance should reflect within 5-10 minutes. If your balance does not update, please send us your Store Receipt Number and we will manually credit your account.
+
+Best regards,
+PocketToons Content Team",Content Access & Coins,,,,
+TCK-1161,PocketToons keeps stopping on Samsung Galaxy S23 (Android 14),"Ever since updating to v3.12.0, the PocketToons app crashes immediately to the home screen upon launch. I cleared cache and reinstalled but issue persists on Samsung Galaxy S23 (Android 14).",Technical & Playback Bugs,App Crash,0.78,Severe/Frustrated,True,Legal/Regulatory escalation trigger ('sue'),"[HUMAN AGENT DRAFT ONLY - DO NOT AUTO-SEND]
+Reason for Escalation: Legal/Regulatory escalation trigger ('sue')
+
+Hello,
+Thank you for reaching out to PocketToons Support. Your request has been escalated to a senior support specialist for priority review. A team member will inspect your account details and follow up with you within 2-4 hours.
+
+Best regards,
+PocketToons Tier 2 Escalations Team",Technical & Playback Bugs,,,,
+TCK-1033,Fraudulent charge from PocketToons,I am contacting my bank and attorney if this $50 unauthorized renewal is not refunded immediately. Order ID ORD-378361.,Billing & Refunds,Unauthorized Charge,0.95,Severe/Frustrated,True,Legal/Regulatory escalation trigger ('attorney') | Category escalation trigger ('attorney') | Category escalation trigger ('fraud') | Severe frustration on high-priority category,"[HUMAN AGENT DRAFT ONLY - DO NOT AUTO-SEND]
+Reason for Escalation: Legal/Regulatory escalation trigger ('attorney') | Category escalation trigger ('attorney') | Category escalation trigger ('fraud') | Severe frustration on high-priority category
+
+Hello,
+Thank you for reaching out to PocketToons Support. Your request has been escalated to a senior support specialist for priority review. A team member will inspect your account details and follow up with you within 2-4 hours.
+
+Best regards,
+PocketToons Tier 2 Escalations Team",Billing & Refunds,,,,
+TCK-1071,Coins not added after successful payment,"I purchased the $14.99 coin pack 30 minutes ago via Apple Pay. Money was deducted from my account (Order #ORD-406327), but my in-app coin wallet still shows 0. Please credit my coins!",Content Access & Coins,Coins Not Credited,0.87,Neutral,False,,"Hello,
+
+Thank you for bringing this to our attention! We apologize for the delay in crediting your purchased coins.
+
+To immediately sync your coin wallet, please try the following steps:
+1. Force-close the PocketToons app and re-open it.
+2. Go to Profile > Account Settings and tap 'Sync Wallet Balance'.
+
+Our system has also triggered a manual sync for your recent order. Your coin balance should reflect within 5-10 minutes. If your balance does not update, please send us your Store Receipt Number and we will manually credit your account.
+
+Best regards,
+PocketToons Content Team",Content Access & Coins,,,,
+TCK-1142,Crash when opening 'My Library' tab,The app freezes completely and screen turns black whenever I open my downloaded shows tab. Needs urgent bug fix.,Technical & Playback Bugs,App Crash,0.95,Negative,False,,"Hello,
+
+Thank you for reporting this playback issue to PocketToons Engineering.
+
+We recommend attempting the following troubleshooting steps:
+1. Ensure your app is updated to the latest version in App Store / Play Store.
+2. Go to Settings > Storage & Cache > Clear Cache.
+3. Toggle Airplane Mode ON for 5 seconds and back OFF.
+
+Our tech team has logged your device details for further diagnostics.
+
+Best regards,
+PocketToons Tech Support",Technical & Playback Bugs,,,,
+TCK-1163,Buffering error on episode playback,Audio cuts out when my phone screen turns off. Background playback is broken on app version v3.12.0.,Technical & Playback Bugs,Audio Stutter / Buffering,0.85,Negative,False,,"Hello,
+
+Thank you for reporting this playback issue to PocketToons Engineering.
+
+We recommend attempting the following troubleshooting steps:
+1. Ensure your app is updated to the latest version in App Store / Play Store.
+2. Go to Settings > Storage & Cache > Clear Cache.
+3. Toggle Airplane Mode ON for 5 seconds and back OFF.
+
+Our tech team has logged your device details for further diagnostics.
+
+Best regards,
+PocketToons Tech Support",Technical & Playback Bugs,,,,
+TCK-1051,Cannot cancel monthly subscription,"I tried cancelling my $9.99 monthly pass in settings last week, but I was still billed today. Please verify my cancellation and refund this month's charge.",Billing & Refunds,Subscription Cancellation Issue,0.95,Negative,False,,"Hello,
+
+Thanks for reaching out to PocketToons. We're sorry to see you go!
+
+We have verified your account and stopped any future recurring auto-renewals for your subscription. You will continue to have full access to your VIP privileges until the end of your current billing cycle.
+
+You can also manage your subscriptions directly via your device settings:
+• iOS: Settings > Apple ID > Subscriptions > PocketToons
+• Android: Play Store > Profile > Payments & subscriptions > Subscriptions
+
+Let us know if you need anything else!
+
+Warm regards,
+PocketToons Customer Care",Billing & Refunds,,,,
+TCK-1065,How to stop recurring billing?,"I tried cancelling my $9.99 monthly pass in settings last week, but I was still billed today. Please verify my cancellation and refund this month's charge.",Billing & Refunds,Unauthorized Charge,0.87,Negative,False,,"Hello,
+
+Thank you for reaching out to PocketToons Billing Support.
+
+We have received your billing query. Our billing team is reviewing your transaction logs. If any discrepancies or unauthorized charges are identified, rest assured they will be immediately adjusted or refunded.
+
+Thank you for your patience,
+PocketToons Support Team",Billing & Refunds,,,,
+TCK-1021,Unauthorized auto-renewal after cancellation,My credit card was charged $19.99 for coins I never purchased. I haven't opened the app in weeks. Please investigate this fraudulent charge and issue a full refund.,Billing & Refunds,Unauthorized Charge,0.95,Severe/Frustrated,True,Legal/Regulatory escalation trigger ('sue') | Category escalation trigger ('fraud') | Severe frustration on high-priority category,"[HUMAN AGENT DRAFT ONLY - DO NOT AUTO-SEND]
+Reason for Escalation: Legal/Regulatory escalation trigger ('sue') | Category escalation trigger ('fraud') | Severe frustration on high-priority category
+
+Hello,
+Thank you for reaching out to PocketToons Support. Your request has been escalated to a senior support specialist for priority review. A team member will inspect your account details and follow up with you within 2-4 hours.
+
+Best regards,
+PocketToons Tier 2 Escalations Team",Billing & Refunds,,,,
+TCK-1073,Purchased 1000 coins but balance is still 0,"I purchased the $14.99 coin pack 30 minutes ago via Apple Pay. Money was deducted from my account (Order #ORD-520172), but my in-app coin wallet still shows 0. Please credit my coins!",Content Access & Coins,Coins Not Credited,0.87,Neutral,False,,"Hello,
+
+Thank you for bringing this to our attention! We apologize for the delay in crediting your purchased coins.
+
+To immediately sync your coin wallet, please try the following steps:
+1. Force-close the PocketToons app and re-open it.
+2. Go to Profile > Account Settings and tap 'Sync Wallet Balance'.
+
+Our system has also triggered a manual sync for your recent order. Your coin balance should reflect within 5-10 minutes. If your balance does not update, please send us your Store Receipt Number and we will manually credit your account.
+
+Best regards,
+PocketToons Content Team",Content Access & Coins,,,,
+TCK-1133,Error downloading episode for offline listening,"I downloaded 20 episodes for my flight, but when I turned on Airplane Mode, the app says 'No internet connection' and won't play offline files. What's the point of offline mode?",Technical & Playback Bugs,Offline Download Failed,0.87,Negative,False,,"Hello,
+
+Thank you for reporting this playback issue to PocketToons Engineering.
+
+We recommend attempting the following troubleshooting steps:
+1. Ensure your app is updated to the latest version in App Store / Play Store.
+2. Go to Settings > Storage & Cache > Clear Cache.
+3. Toggle Airplane Mode ON for 5 seconds and back OFF.
+
+Our tech team has logged your device details for further diagnostics.
+
+Best regards,
+PocketToons Tech Support",Technical & Playback Bugs,,,,
+TCK-1089,VIP membership inactive on my account,Paid $49.99 for yearly VIP membership. Order #ORD-227324. Still showing lock icons on exclusive episodes.,Content Access & Coins,VIP Membership Missing,0.41,Neutral,True,Low classifier confidence (0.41 < 0.60),"[HUMAN AGENT DRAFT ONLY - DO NOT AUTO-SEND]
+Reason for Escalation: Low classifier confidence (0.41 < 0.60)
+
+Hello,
+Thank you for reaching out to PocketToons Support. Your request has been escalated to a senior support specialist for priority review. A team member will inspect your account details and follow up with you within 2-4 hours.
+
+Best regards,
+PocketToons Tier 2 Escalations Team",Content Access & Coins,,,,
+TCK-1201,testing 123,Hi i bought the coins but not received it.,Content Access & Coins,Coins Not Credited,0.78,Neutral,False,,"Hello,
+
+Thank you for bringing this to our attention!
+
+We apologize for the delay in crediting your purchased None to your wallet under None for your transaction.
+
+To immediately sync your coin wallet, please try the following steps:
+1. Force-close the PocketToons app and re-open it.
+2. Go to Profile > Account Settings and tap 'Sync Wallet Balance'.
+
+Our system has also triggered a manual sync for your recent order. Your coin balance should reflect within 5-10 minutes. If your balance does not update, please reply directly to this email.
+
+Best regards,
+PocketToons Content Team",Content Access & Coins,"{'user_id': None, 'order_id': None, 'amount': None, 'series': None, 'device': None}",Derived from local hybrid ML & keyword mapping.,False,False
